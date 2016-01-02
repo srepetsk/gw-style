@@ -15,7 +15,7 @@ Use <em>Islamic State group</em> or similar on first mention. Can be abbreviated
 
 Lead by <a href="https://style.srepetsk.net/b/al-baghdadi-abu-bakr/">Abu Bakr al-Baghdadi</a>.
 
-Referred to variously as Daesh, ISIL and ISIS.
+Referred to variously as Daesh, ISIL and ISIS. When using an alternate name is not possible, such as in a quote, explain that it is another term for the group: <em>"Ramadi has been recaptured from Daesh," the commander said, using an alternate name for the Islamic State group.</em>
 
 Formerly <em>Islamic State of Iraq and the Levant</em> (ISIL), alternately translated as <em>Islamic State of Iraq</em> <em>and Syria</em> or <em>Islamic State of Iraq and al-Sham</em> (ISIS). After June 2014, refers to itself as <em>Islamic State</em>.
 
