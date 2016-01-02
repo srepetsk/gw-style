@@ -19,3 +19,27 @@ Do not use a comma before a conjunction in a simple series unless absolutely ne
 <img class="alignleft" src="http://i.imgur.com/rTEJkwH.jpg" alt="" width="487" height="637" />
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Part of a series on <a href="https://style.srepetsk.net/p/punctuation-2/">punctuation</a>.
