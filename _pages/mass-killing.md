@@ -11,4 +11,4 @@ published: true
 ---
 According to the <a href="https://www.fbi.gov/news/stories/2014/september/fbi-releases-study-on-active-shooter-incidents/pdfs/a-study-of-active-shooter-incidents-in-the-u.s.-between-2000-and-2013" target="_blank">FBI</a>, an incident in which three or more people are killed by firearms.
 
-Definitely not to be confused with <a href="https://style.srepetsk.net/m/mass-murder/">mass murder</a>.
+Not to be confused with <a href="https://style.srepetsk.net/m/mass-murder/">mass murder</a>.
