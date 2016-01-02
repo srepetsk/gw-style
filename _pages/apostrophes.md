@@ -18,3 +18,5 @@ Add 's to a singular noun: <em>The puppy's rice</em>
 Add ' to a plural noun: <em>The puppies' rice</em>
 
 Generally, use 's if a word does not end in s. Apply the same rule for names: <em>The Jones' home.</em>
+
+Part of a series on <a href="https://style.srepetsk.net/p/punctuation-2/">punctuation</a>.
