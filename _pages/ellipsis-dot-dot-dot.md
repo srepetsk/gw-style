@@ -30,3 +30,9 @@ Rarely used: <em>x,… y or x…, y </em>
 <strong>Mac</strong>: alt-;
 <h5>Keyboard longcuts</h5>
 <strong>Windows</strong>: alt+0133 on the numberpad.
+
+<hr />
+
+&nbsp;
+
+Part of a series on <a href="https://style.srepetsk.net/p/punctuation-2/">punctuation</a>.
