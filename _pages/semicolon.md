@@ -26,4 +26,8 @@ Use to link independent clauses when a conjunction is present if excessive punct
 
 The Associated Press Stylebook recommends breaking such clauses into individual sentences.
 
+<hr />
+
+&nbsp;
+
 Part of a series on <a href="https://style.srepetsk.net/p/punctuation-2/">punctuation</a>.
