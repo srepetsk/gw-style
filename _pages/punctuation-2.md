@@ -23,7 +23,7 @@ Sections:
 	<li><a href="https://style.srepetsk.net/e/ellipsis-dot-dot-dot/">ellipsis</a></li>
 	<li><a href="https://style.srepetsk.net/h/hyphens/">hyphens</a></li>
 	<li>quotes</li>
-	<li>semicolon</li>
+	<li><a href="https://style.srepetsk.net/s/semicolon/">semicolon</a></li>
 </ul>
 &nbsp;
 
