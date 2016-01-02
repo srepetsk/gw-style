@@ -42,4 +42,8 @@ Do not use a comma before a conjunction in a simple series unless absolutely ne
 
 &nbsp;
 
+<hr />
+
+&nbsp;
+
 Part of a series on <a href="https://style.srepetsk.net/p/punctuation-2/">punctuation</a>.
