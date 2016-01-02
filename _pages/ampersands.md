@@ -5,7 +5,7 @@ author: joanne_stocker
 post_date: 2016-01-02 19:58:59
 post_excerpt: ""
 layout: page
-permalink: https://style.srepetsk.net/ampersands/
+permalink: https://style.srepetsk.net/a/ampersands/
 published: true
 ---
 Use an ampersand (&amp;) when a company does: <em>Johnson &amp; Johnson</em>
