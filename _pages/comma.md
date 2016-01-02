@@ -8,7 +8,7 @@ layout: page
 permalink: https://style.srepetsk.net/o/comma/
 published: true
 ---
-A comma (,) before the final conjunction in lists to remove ambiguity: <em>sun, sea, sand, and semaphore</em>
+A comma (,) before the final conjunction in lists to remove ambiguity: <em>sun, sea, sand, and semaphore</em>.
 
 Also called serial commas.
 
