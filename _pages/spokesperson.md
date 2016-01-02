@@ -13,4 +13,4 @@ The Associated Press Stylebook recommends <em>spokesman</em> and <em>spokeswoman
 
 Better: Use a neutral word such as <em>representative</em> or the person's title or role that provides more information: <em>Sgt. Jeannie Hadley, public information officer for the department</em>
 
-See gender neutrality
+See <a href="https://style.srepetsk.net/g/gender-neutrality/">gender neutrality</a>
