@@ -8,8 +8,6 @@ layout: page
 permalink: https://style.srepetsk.net/m/myanmar/
 published: true
 ---
-[googlemaps width=100% height=350]
-
 A country in southeast Asia, also known as Burma. For political reasons Myanmar is preferred.
 
 People from Mayanmar are Burmese.
