@@ -13,3 +13,5 @@ Use a hyphen when a prefix ends with a vowel and the word following it begins wi
 Exceptions: <em>cooperate, coordinate</em>
 
 Generally, do not hyphenate a word that begins with a consonant.
+
+See <a href="https://style.srepetsk.net/h/hyphens/">hyphens</a>
