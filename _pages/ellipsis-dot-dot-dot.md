@@ -9,21 +9,21 @@ permalink: >
   https://style.srepetsk.net/e/ellipsis-dot-dot-dot/
 published: true
 ---
-…
+(…)
 
 A single character, not . . . (period space period space period).
 
 Indicates missing text.
 
-Preceded and followed by a single space, eg x … y
+Preceded and followed by a single space: <em>x … y</em>
 
 At the end of a sentence, or when used in conjunction with a comma, question mark or exclamation mark, the preceding space is dropped.
 
-x…. Y (end of sentence, 4 dots total)
+<em>x…. Y</em> (end of sentence, 4 dots total)
 
-x…?
+<em>x…?</em>
 
-x,… y or x…, y (rarely used)
+Rarely used: <em>x,… y or x…, y </em>
 
 &nbsp;
 <h5>Keyboard shortcuts</h5>
