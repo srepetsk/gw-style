@@ -25,3 +25,5 @@ Use to link independent clauses when a conjunction is present if excessive punct
 <em>He prepared the lamb, rice, potatoes and beets for a meal to be shared between friends, neighbors and colleagues; but he knew there would still be room for dessert, his famous chocolate, pecan and raspberry torte.</em>
 
 The Associated Press Stylebook recommends breaking such clauses into individual sentences.
+
+Part of a series on <a href="https://style.srepetsk.net/p/punctuation-2/">punctuation</a>.
