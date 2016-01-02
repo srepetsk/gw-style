@@ -9,7 +9,7 @@ permalink: >
   https://style.srepetsk.net/a/apostrophes/
 published: true
 ---
-Used to denote possession, not create plurals.
+An apostrophe (') is used to denote possession, not create plurals.
 
 <em>Jason's rice</em> is correct; <em>100's of puppies</em> is not.
 
