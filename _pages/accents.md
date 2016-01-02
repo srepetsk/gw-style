@@ -12,4 +12,8 @@ Generally, use accent marks and other diacritical<b> </b>marks on names where a
 <div class="kno-ecr-pt kno-fb-ctx" data-ved="0ahUKEwif_KH8_onKAhXFNj4KHVQrCJcQ3B0IiQEoADAT"><em>Recep Tayyip Erdoğan, President of Turkey</em></div>
 <em>Arsène Wenger, OBE</em>
 
+<hr />
+
+&nbsp;
+
 Part of a series on <a href="https://style.srepetsk.net/p/punctuation-2/">punctuation</a>.
