@@ -22,6 +22,7 @@ Sections:
 	<li>dashes</li>
 	<li><a href="https://style.srepetsk.net/e/ellipsis-dot-dot-dot/">ellipsis</a></li>
 	<li><a href="https://style.srepetsk.net/h/hyphens/">hyphens</a></li>
+	<li><a href="https://style.srepetsk.net/p/periods/">periods</a></li>
 	<li>quotes</li>
 	<li><a href="https://style.srepetsk.net/s/semicolon/">semicolon</a></li>
 </ul>
