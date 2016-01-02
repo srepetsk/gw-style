@@ -12,7 +12,7 @@ published: true
 Sections:
 <ul>
 	<li><a href="https://style.srepetsk.net/a/accents/">accents</a></li>
-	<li>ampersands</li>
+	<li><a href="https://style.srepetsk.net/ampersands/">ampersands</a></li>
 	<li><a href="https://style.srepetsk.net/a/apostrophes/">apostrophes</a></li>
 	<li><a href="https://style.srepetsk.net/c/colon/">colon</a></li>
 	<li> commas
