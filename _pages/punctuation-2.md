@@ -13,7 +13,7 @@ Sections:
 <ul>
 	<li><a href="https://style.srepetsk.net/a/accents/">accents</a></li>
 	<li><a href="https://style.srepetsk.net/a/apostrophes/">apostrophes</a></li>
-	<li>colon</li>
+	<li><a href="https://style.srepetsk.net/c/colon/">colon</a></li>
 	<li> commas
 <ul>
 	<li><a href="https://style.srepetsk.net/o/comma/">Oxford comma</a></li>
