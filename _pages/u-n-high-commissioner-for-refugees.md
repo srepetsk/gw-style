@@ -18,3 +18,5 @@ Abbreviated as UNHCR, acceptable on second mention after the formal name:
 <em>The Syrian refugee crisis is worsening, the United Nations refugee agency said Saturday. According to the U.N. High Commissioner for Refugees, one million people reached Europe by sea in 2015. Nearly one in 20 people worldwide is a refugee, the UNHCR said.</em>
 
 The head of the UNHCR is the High Commissioner for Refugees. Their name should proceed the title: <em>António Guterres, United Nations High Commissioner for Refugees</em>.
+
+Do not confuse with UN<strong>CH</strong>R, a one character transposition. This is the <a href="https://style.srepetsk.net/u/u-n-commission-on-human-rights/">United Nations Commission on Human Rights</a>.
