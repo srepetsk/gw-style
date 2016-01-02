@@ -8,7 +8,7 @@ layout: page
 permalink: https://style.srepetsk.net/c/colon/
 published: true
 ---
-colon(:) Use at the end of a sentence to begin a list or text (this example is meta):
+Use a colon (:) at the end of a sentence to begin a list or text (this example is meta):
 
 <em>The war plane was painted three colors: red, white and blue</em>
 
@@ -23,3 +23,5 @@ But: <em>They had two objectives: divide and conquer.</em>
 Use to introduce a long quote within a paragraph. Colons belong outside of quotation marks unless they are part of the quote.
 
 Use colons for time of day (<em>1:30</em> <em>p.m.</em>,<em> 12:45 a.m.</em>), time elapsed (<em>01:23:45</em>) and legal citations (U.S. Code 5:552).
+
+Part of a series on <a href="https://style.srepetsk.net/p/punctuation-2/">punctuation</a>.
