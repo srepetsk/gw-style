@@ -1,6 +1,6 @@
 ---
 ID: 20
-post_title: ""
+post_title: Style
 author: ferguskelly
 post_date: 2016-01-01 23:25:07
 post_excerpt: ""
