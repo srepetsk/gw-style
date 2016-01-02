@@ -24,4 +24,8 @@ Use to introduce a long quote within a paragraph. Colons belong outside of quota
 
 Use colons for time of day (<em>1:30</em> <em>p.m.</em>,<em> 12:45 a.m.</em>), time elapsed (<em>01:23:45</em>) and legal citations (U.S. Code 5:552).
 
+<hr />
+
+&nbsp;
+
 Part of a series on <a href="https://style.srepetsk.net/p/punctuation-2/">punctuation</a>.
