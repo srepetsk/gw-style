@@ -5,7 +5,8 @@ author: ferguskelly
 post_date: 2016-01-03 01:17:44
 post_excerpt: ""
 layout: page
-permalink: https://style.srepetsk.net/christianity/
+permalink: >
+  https://style.srepetsk.net/c/christianity/
 published: true
 ---
 A world religion whose adherents, Christians, follow the teachings of Jesus Christ. It has many branches.
