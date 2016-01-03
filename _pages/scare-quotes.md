@@ -19,7 +19,7 @@ Quotes ("") placed around a word or phrase to indicate it is being used ironical
 
 Scare quotes have no place in journalism; save them for fighting on the Internet.
 
-<a href="http://www.bbc.com/news/world-35210527" target="_blank">Exception</a>: https://twitter.com/BBCWorld/status/682997455575728132
+<a href="http://www.bbc.com/news/world-35210527" target="_blank">Exception</a>:
 
 &nbsp;
 
