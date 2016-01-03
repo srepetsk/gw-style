@@ -38,7 +38,7 @@ The majority (85 to 90 percent) of Muslims are Sunni. Sunni Muslims include foll
 
 Sunnis are the majority in more than 40 countries, including Afghanistan, Egypt, Indonesia, Saudi Arabia and Turkey.
 <h3>Shia</h3>
-<em>Shia</em> ("follower") describes the collective; an individual is a <strong>Shiite</strong>:<em> </em><em>They are Shia. He is a Shiite.</em>
+<strong>Shia</strong> ("follower") describes the collective; an individual is a <strong>Shiite</strong>:<em> </em><em>They are Shia. He is a Shiite.</em>
 
 Shias include Ithna Asharis (Twelvers), Ismailis, Zaydis, Alevis and Alawites.
 
