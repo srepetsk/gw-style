@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Se
 &nbsp;
 
 <strong>Sometimes an extra return can help break things up where subject changes slightly.</strong> consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor.
-<h3>Heading 3 again</h3>
+<h3>Subhead again</h3>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor.
 
 <hr />
