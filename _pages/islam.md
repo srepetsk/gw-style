@@ -60,4 +60,6 @@ There is a sizable Shia population (1 million or more) in Afghanistan, Azerbaij
 
 &nbsp;
 <h3>Other Sects</h3>
-The <strong>Baha'i </strong>in Iran; <strong>Kharijites</strong>, found in Oman; the <strong>Nation of Islam</strong> in the United States; and the <strong>Druze</strong>, found primarily in Lebanon but also in Syria and Israel, are Muslims who cannot be easily classified as either Sunni or Shia. <strong>Sufism</strong> has followers among both Shias and Sunnis as well as adherents who identify primarily as <em>Sufi</em>.
+The <strong>Baha'i </strong>in Iran; <strong>Kharijites</strong>, found in Oman; the <strong>Nation of Islam</strong> in the United States; and the <strong>Druze</strong>, found primarily in Lebanon but also in Syria and Israel, are Muslims who cannot be easily classified as either Sunni or Shia.
+
+<strong>Sufism</strong> has followers among both Shias and Sunnis as well as adherents who identify primarily as <em>Sufi</em>.
