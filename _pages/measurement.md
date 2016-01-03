@@ -9,9 +9,9 @@ permalink: >
   https://style.srepetsk.net/m/measurement/
 published: true
 ---
-When referencing a distance, weight, volume or temperature, attempt to use metric as the primary system of measurement, with U.S. imperial units in parentheses. Typically, a conversion is only necessary the first time a number is mentioned.
+When referencing a distance, weight, volume or temperature, attempt to use metric as the primary system of measurement, with U.S. imperial units in parentheses. Typically, a conversion is only necessary the first time a number is mentioned: <em>The earthquake was 27 km (16.7 miles) deep.</em>
 
-<em>The earthquake was 27 km (16.7 miles) deep.</em>
+&nbsp;
 
 Use figures. Spell out imperial (U.S.) units. For metric units, spell out base units: <em>meter</em>, <em>gram</em>, <em>liter </em>and abbreviate others on second mention. Note space between number and unit.
 
@@ -21,7 +21,11 @@ Use figures. Spell out imperial (U.S.) units. For metric units, spell out base u
 
 Wrong: <em>Sixty kilometers</em>, <em>25.3ft.</em>,<em> Two-hundred and twenty-four centimeters</em>
 
+&nbsp;
+
 Spell out units of measurement when they are not accompanied by a figure: <em>He did not know how many kilometers he walked that day.</em>
+
+&nbsp;
 
 For approximations, use approximate conversions. Round up if the decimal is higher than 0.5:
 
