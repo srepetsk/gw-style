@@ -21,13 +21,7 @@ More than 1.6 billion people are followers of Islam.
 Major sects are <em>Sunni</em> and <em>Shia</em>.
 
 &nbsp;
-
-&nbsp;
-
-&nbsp;
-
-Sunni:
-
+<h5>Sunni</h5>
 Sunni is a noun or adjective; the plural of Sunni (n.) is <em>Sunnis</em>.
 
 The majority (85 to 90 percent) of Muslims are Sunni. Sunni Muslims include followers of the <em>Hanafi</em>, <em>Shafi</em>, <em>Maliki</em> and <em>Hanbali</em> schools of jurisprudence and the <em>Salafi</em> movement.
@@ -35,11 +29,7 @@ The majority (85 to 90 percent) of Muslims are Sunni. Sunni Muslims include foll
 Sunnis are the majority in more than 40 countries, including Afghanistan, Egypt, Indonesia, Saudi Arabia and Turkey.
 
 &nbsp;
-
-&nbsp;
-
-Shia:
-
+<h5>Shia</h5>
 <em>Shia</em> ("follower") describes the collective; an individual is a <em>Shiite</em>:<em> </em><em>They are Shia. He is a Shiite.</em>
 
 Shias include <em>Ithna Asharis</em> (<em>Twelvers</em>), <em>Ismailis</em>, <em>Zaydis</em>, <em>Alevis</em> and <em>Alawites</em>.
@@ -51,13 +41,5 @@ Between 35 and 40 percent of the world's Shias (66 to 70 million) live in Iran.�
 There is a sizable Shia population (1 million or more) in Afghanistan, Azerbaijan, Lebanon, Nigeria, Saudi Arabia, Syria, Tanzania, Turkey and Yemen.
 
 &nbsp;
-
-&nbsp;
-
-Other Sects:
-
+<h5>Other Sects</h5>
 The <em>Baha'i</em> in Iran; <em>Kharijites</em>, found in Oman; the <em>Nation of Islam</em> in the United States; and the <em>Druze</em>, found primarily in Lebanon but also in Syria and Israel, are Muslims who cannot be easily classified as either Sunni or Shia. <em>Sufism </em>has followers among both Shias and Sunnis as well as adherents who identify primarily as <em>Sufi</em>.
-
-&nbsp;
-
-&nbsp;
