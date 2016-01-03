@@ -13,6 +13,8 @@ Paragraph text is generally used.
 <em>Examples take italics.</em>
 
 <em>As I said, examples take italics.</em>
+
+Oh, for got to give an <a href="https://style.srepetsk.net/styles/">example of a link</a>
 <h3>Heading 3 for subheads</h3>
 Paragraph text is generally used.
 
