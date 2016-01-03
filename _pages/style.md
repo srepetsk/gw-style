@@ -8,7 +8,8 @@ layout: page
 permalink: https://style.srepetsk.net/
 published: true
 ---
-<h3>The Grasswire Style Guide. Always a work in progress.</h3>
-[hr]
+<h5>The Grasswire Style Guide. Always a work in progress.</h5>
+
+<hr />
 
 [pagelist exclude="20,478" title_li="" class="page-list-cols-2"]
