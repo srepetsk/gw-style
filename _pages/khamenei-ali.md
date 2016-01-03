@@ -11,6 +11,8 @@ published: true
 ---
 First mention: <em>Ayatollah Ali Khamenei</em>
 
+<em>Khamenei</em> or <em>the Supreme Leader</em> on subsequent mentions.
+
 His full name, Sayyed Ali Hosseini Khamenei, is rarely used.
 
 &nbsp;
