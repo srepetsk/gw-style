@@ -19,16 +19,12 @@ Holy book is the <em>Quran</em>, not <em>Qur'an</em> or <em>Koran</em>.
 More than 1.6 billion people are followers of Islam.
 
 Major sects are <em>Sunni</em> and <em>Shia</em>.
-
-&nbsp;
 <h5>Sunni</h5>
 Sunni is a noun or adjective; the plural of Sunni (n.) is <em>Sunnis</em>.
 
 The majority (85 to 90 percent) of Muslims are Sunni. Sunni Muslims include followers of the <em>Hanafi</em>, <em>Shafi</em>, <em>Maliki</em> and <em>Hanbali</em> schools of jurisprudence and the <em>Salafi</em> movement.
 
 Sunnis are the majority in more than 40 countries, including Afghanistan, Egypt, Indonesia, Saudi Arabia and Turkey.
-
-&nbsp;
 <h5>Shia</h5>
 <em>Shia</em> ("follower") describes the collective; an individual is a <em>Shiite</em>:<em> </em><em>They are Shia. He is a Shiite.</em>
 
