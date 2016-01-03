@@ -20,6 +20,6 @@ The high-ranking diplomat in an embassy is the <em>ambassador</em>. Capitalize i
 
 &nbsp;
 
-See also: consulate
+See also: <a href="https://style.srepetsk.net/c/consulate/">consulate</a>
 
 &nbsp;
