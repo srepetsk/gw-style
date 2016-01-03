@@ -16,11 +16,11 @@ Adjective is <strong>Islamic</strong>. Muslim is not an adjective.
 
 &nbsp;
 
-An <strong>Islamist</strong> is an adherent of <strong>Islamism</strong>, or political Islam. Islamists view the Quran as both a political and religious code. <em>Islamist</em> can carry political implications; use with discretion.
+An <strong>Islamist</strong> is an adherent of <strong>Islamism</strong>, or political Islam. Islamists view the Quran as both a political and religious code. Islamist can carry political implications; use with discretion.
 
 &nbsp;
 
-Holy book is the <strong>Quran</strong>, not <em>Qur'an</em> or <em>Koran</em>.
+Holy book is the <strong>Quran</strong>, not Qur'an or Koran.
 
 &nbsp;
 
@@ -34,13 +34,13 @@ Major sects are <strong>Sunni</strong> and <strong>Shia</strong>.
 <h3>Sunni</h3>
 Sunni is a noun or adjective; the plural of Sunni (n.) is <em>Sunnis</em>.
 
-The majority (85 to 90 percent) of Muslims are Sunni. Sunni Muslims include followers of the <em>Hanafi</em>, <em>Shafi</em>, <em>Maliki</em> and <em>Hanbali</em> schools of jurisprudence and the <em>Salafi</em> movement.
+The majority (85 to 90 percent) of Muslims are Sunni. Sunni Muslims include followers of the Hanafi, Shafi, Maliki and Hanbali schools of jurisprudence and the Salafi movement.
 
 Sunnis are the majority in more than 40 countries, including Afghanistan, Egypt, Indonesia, Saudi Arabia and Turkey.
 <h3>Shia</h3>
 <em>Shia</em> ("follower") describes the collective; an individual is a <strong>Shiite</strong>:<em> </em><em>They are Shia. He is a Shiite.</em>
 
-Shias include <em>Ithna Asharis</em> (<em>Twelvers</em>), <em>Ismailis</em>, <em>Zaydis</em>, <em>Alevis</em> and <em>Alawites</em>.
+Shias include Ithna Asharis (Twelvers), Ismailis, Zaydis, Alevis and Alawites.
 
 The Pew Research Group estimates there are between 154 million and 200 million Shias in the world today.
 
