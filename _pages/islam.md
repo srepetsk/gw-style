@@ -10,13 +10,23 @@ published: true
 ---
 Followers are called <strong>Muslims</strong>; Muslim is not a religion.
 
+&nbsp;
+
 Adjective is <strong>Islamic</strong>. Muslim is not an adjective.
+
+&nbsp;
 
 An <strong>Islamist</strong> is an adherent of <strong>Islamism</strong>, or political Islam. Islamists view the Quran as both a political and religious code. <em>Islamist</em> can carry political implications; use with discretion.
 
+&nbsp;
+
 Holy book is the <strong>Quran</strong>, not <em>Qur'an</em> or <em>Koran</em>.
 
+&nbsp;
+
 More than 1.6 billion people are followers of Islam.
+
+&nbsp;
 
 Major sects are <strong>Sunni</strong> and <strong>Shia</strong>.
 <h3>Sunni</h3>
