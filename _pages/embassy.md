@@ -18,6 +18,8 @@ The high-ranking diplomat in an embassy is the <em>ambassador</em>. Capitalize i
 
 <em>I sat next to the Chinese ambassador.</em>
 
+<hr />
+
 &nbsp;
 
 See also: <a href="https://style.srepetsk.net/c/consulate/">consulate</a>
