@@ -8,12 +8,12 @@ layout: page
 permalink: https://style.srepetsk.net/d/dates/
 published: true
 ---
-Use U.S. format: month day, year. Abbreviate the month.
+Use U.S. format: month, day, year. Abbreviate the month when it precedes a date:
 
-<em>Dec. 21.</em>
+<em>Dec. 21</em>
 
-<em>Mar. 17, 2025.</em>
+<em>Mar. 17, 2025</em>
 
-<em>Thursday, Mar. 17.</em>
+<em>Thursday, Mar. 17</em>
 
-In general, use relative rather than specific dates: on Sunday
+In general, use relative rather than specific dates: <em>on Sunday, last Wednesday</em>
