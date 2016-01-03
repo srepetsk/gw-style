@@ -42,3 +42,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 <h5></h5>
 <h3>Heading 3 again</h3>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor.
+
+<hr />
+
+Horizontal rule. Takes no extra returns. Spacing is fixed.
+
+&nbsp;
