@@ -25,9 +25,7 @@ The <strong>Greek Orthodox Church</strong> is a term referring to the body of s
 
 The <strong>Russian Orthodox Church</strong> is another Church of the communion.
 <h5>Protestantism</h5>
-A form of Christian faith and practice which originated with the Protestant Reformation in 1517, a movement against what were seen as errors in the Roman Catholic Church and its teachings.
-
-Adherents are Protestants.
+A form of Christian faith and practice. Adherents are Protestants.
 
 This is not a unified church. There are many denominations, all with differing beliefs and practices.
 
