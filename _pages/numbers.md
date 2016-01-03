@@ -26,7 +26,7 @@ Numbers that begin a sentence, except for years:
 
 &nbsp;
 
-<strong>Millions, billions, trillions</strong>: <em>100 million, 4.3 billion, 2 trillion</em>
+Millions, billions, trillions: <em>100 million, 4.3 billion, 2 trillion</em>
 
 Use U.S. billions: 1 billion = 1,000 million
 
