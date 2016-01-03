@@ -34,7 +34,11 @@ Major sects are <strong>Sunni</strong> and <strong>Shia</strong>.
 <h3>Sunni</h3>
 Sunni is a noun or adjective; the plural of Sunni (n.) is <em>Sunnis</em>.
 
+&nbsp;
+
 The majority (85 to 90 percent) of Muslims are Sunni. Sunni Muslims include followers of the Hanafi, Shafi, Maliki and Hanbali schools of jurisprudence and the Salafi movement.
+
+&nbsp;
 
 Sunnis are the majority in more than 40 countries, including Afghanistan, Egypt, Indonesia, Saudi Arabia and Turkey.
 <h3>Shia</h3>
@@ -42,9 +46,15 @@ Sunnis are the majority in more than 40 countries, including Afghanistan, Egypt
 
 Shias include Ithna Asharis (Twelvers), Ismailis, Zaydis, Alevis and Alawites.
 
+&nbsp;
+
 The Pew Research Group estimates there are between 154 million and 200 million Shias in the world today.
 
+&nbsp;
+
 Between 35 and 40 percent of the world's Shias (66 to 70 million) live in Iran. Shias make up a majority of the total population in Iran, Azerbaijan, Bahrain and Iraq; between 68 and 80 percent of the world Shia population live in Iran, Pakistan, India and Iraq, all of which have at least 16 million Shias.
+
+&nbsp;
 
 There is a sizable Shia population (1 million or more) in Afghanistan, Azerbaijan, Lebanon, Nigeria, Saudi Arabia, Syria, Tanzania, Turkey and Yemen.
 
