@@ -44,6 +44,8 @@ Horizontal rule. Takes no extra returns. Spacing is fixed.
 
 &nbsp;
 
-[themify_box style="gray highlight" ]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor.[/themify_box]
+[themify_box style="gray announcement flat" ]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor.[/themify_box]
+
+&nbsp;
 
 &nbsp;
