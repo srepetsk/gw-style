@@ -29,6 +29,8 @@ More than 1.6 billion people are followers of Islam.
 &nbsp;
 
 Major sects are <strong>Sunni</strong> and <strong>Shia</strong>.
+
+&nbsp;
 <h3>Sunni</h3>
 Sunni is a noun or adjective; the plural of Sunni (n.) is <em>Sunnis</em>.
 
