@@ -9,6 +9,6 @@ permalink: >
   https://style.srepetsk.net/p/pope-francis/
 published: true
 ---
-Head of the Roman Catholic Church
+Head of the Roman Catholic Church, and can be referred to as the Pontiff, His Holiness Pope Francis, or Papa Francesco.
 
 Not <em>Pope Francis I</em>
