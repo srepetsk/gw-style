@@ -40,4 +40,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Se
 
 Horizontal rule. Takes no extra returns. Spacing is fixed.
 
+<hr />
+
+&nbsp;
+
+[themify_box style="gray highlight" ]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor.[/themify_box]
+
 &nbsp;
