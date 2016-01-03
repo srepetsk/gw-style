@@ -14,7 +14,7 @@ Paragraph text is generally used.
 
 <em>As I said, examples take italics.</em>
 
-Oh, for got to give an <a href="https://style.srepetsk.net/styles/">example of a link</a>
+Oh, forgot to give an <a href="https://style.srepetsk.net/styles/">example of a link</a>
 <h3>Subheads</h3>
 Paragraph text is generally used.
 
