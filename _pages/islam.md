@@ -8,25 +8,25 @@ layout: page
 permalink: https://style.srepetsk.net/i/islam/
 published: true
 ---
-Followers are called <em>Muslims</em>; Muslim is not a religion.
+Followers are called <strong>Muslims</strong>; Muslim is not a religion.
 
-Adjective is <em>Islamic</em>. Muslim is not an adjective.
+Adjective is <strong>Islamic</strong>. Muslim is not an adjective.
 
-An <em>Islamist</em> is an adherent of <em>Islamism</em>, or political Islam. Islamists view the Quran as both a political and religious code. <em>Islamist</em> can carry political implications; use with discretion.
+An <strong>Islamist</strong> is an adherent of <strong>Islamism</strong>, or political Islam. Islamists view the Quran as both a political and religious code. <em>Islamist</em> can carry political implications; use with discretion.
 
-Holy book is the <em>Quran</em>, not <em>Qur'an</em> or <em>Koran</em>.
+Holy book is the <strong>Quran</strong>, not <em>Qur'an</em> or <em>Koran</em>.
 
 More than 1.6 billion people are followers of Islam.
 
-Major sects are <em>Sunni</em> and <em>Shia</em>.
-<h5>Sunni</h5>
+Major sects are <strong>Sunni</strong> and <strong>Shia</strong>.
+<h3>Sunni</h3>
 Sunni is a noun or adjective; the plural of Sunni (n.) is <em>Sunnis</em>.
 
 The majority (85 to 90 percent) of Muslims are Sunni. Sunni Muslims include followers of the <em>Hanafi</em>, <em>Shafi</em>, <em>Maliki</em> and <em>Hanbali</em> schools of jurisprudence and the <em>Salafi</em> movement.
 
 Sunnis are the majority in more than 40 countries, including Afghanistan, Egypt, Indonesia, Saudi Arabia and Turkey.
-<h5>Shia</h5>
-<em>Shia</em> ("follower") describes the collective; an individual is a <em>Shiite</em>:<em> </em><em>They are Shia. He is a Shiite.</em>
+<h3>Shia</h3>
+<em>Shia</em> ("follower") describes the collective; an individual is a <strong>Shiite</strong>:<em> </em><em>They are Shia. He is a Shiite.</em>
 
 Shias include <em>Ithna Asharis</em> (<em>Twelvers</em>), <em>Ismailis</em>, <em>Zaydis</em>, <em>Alevis</em> and <em>Alawites</em>.
 
@@ -37,5 +37,5 @@ Between 35 and 40 percent of the world's Shias (66 to 70 million) live in Iran.�
 There is a sizable Shia population (1 million or more) in Afghanistan, Azerbaijan, Lebanon, Nigeria, Saudi Arabia, Syria, Tanzania, Turkey and Yemen.
 
 &nbsp;
-<h5>Other Sects</h5>
-The <em>Baha'i</em> in Iran; <em>Kharijites</em>, found in Oman; the <em>Nation of Islam</em> in the United States; and the <em>Druze</em>, found primarily in Lebanon but also in Syria and Israel, are Muslims who cannot be easily classified as either Sunni or Shia. <em>Sufism </em>has followers among both Shias and Sunnis as well as adherents who identify primarily as <em>Sufi</em>.
+<h3>Other Sects</h3>
+The <strong>Baha'i </strong>in Iran; <strong>Kharijites</strong>, found in Oman; the <strong>Nation of Islam</strong> in the United States; and the <strong>Druze</strong>, found primarily in Lebanon but also in Syria and Israel, are Muslims who cannot be easily classified as either Sunni or Shia. <strong>Sufism</strong> has followers among both Shias and Sunnis as well as adherents who identify primarily as <em>Sufi</em>.
