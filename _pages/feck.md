@@ -5,7 +5,7 @@ author: ferguskelly
 post_date: 2016-01-03 18:48:09
 post_excerpt: ""
 layout: page
-permalink: https://style.srepetsk.net/feck/
+permalink: https://style.srepetsk.net/f/feck/
 published: true
 ---
 An Angliscization of the Irish word <em>feic</em>, feck is an exclamation or a very mild profanity: <em>Ah, for fecks sake</em>.
