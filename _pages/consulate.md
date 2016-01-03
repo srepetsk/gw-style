@@ -12,4 +12,8 @@ A consulate is a diplomatic mission of a country to another foreign city; it may
 
 The chief diplomat of a consulate is a <em>Consul-General</em>; their office is the <em>Consulate-General</em>.
 
+<hr />
+
+&nbsp;
+
 See also: <a href="https://style.srepetsk.net/e/embassy/">embassy</a>
