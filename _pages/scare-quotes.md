@@ -23,6 +23,8 @@ Scare quotes have no place in journalism; save them for fighting on the Internet
 
 &nbsp;
 
+&nbsp;
+
 <hr />
 
 Part of a series on <a href="https://style.srepetsk.net/p/punctuation-2/">punctuation</a>.
