@@ -20,7 +20,7 @@ More than 1.6 billion people are followers of Islam.
 
 Major sects are <strong>Sunni</strong> and <strong>Shia</strong>.
 <h3>Sunni</h3>
-Sunni is a noun or adjective; the plural of Sunni (n.) is <em>Sunnis</em>.
+<strong>Sunni</strong> is a noun or adjective; the plural of Sunni (n.) is <strong>Sunnis</strong>.
 
 The majority (85 to 90 percent) of Muslims are Sunni. Sunni Muslims include followers of the Hanafi, Shafi, Maliki and Hanbali schools of jurisprudence and the Salafi movement.
 
