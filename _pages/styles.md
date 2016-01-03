@@ -33,6 +33,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Se
 &nbsp;
 
 <strong>Sometimes an extra return can help break things up where subject changes slightly.</strong> consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor.
+
+&nbsp;
+
+Tweets can be added to text, but the link should be added on a line on its own.
+
+https://twitter.com/BBCWorld/status/682997455575728132
 <h3>Subhead again</h3>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor.
 
