@@ -21,10 +21,6 @@ Scare quotes have no place in journalism; save them for fighting on the Internet
 
 &nbsp;
 
-Twitter link on the same line https://twitter.com/BBCWorld/status/682997455575728132
-
-&nbsp;
-
 <a href="http://www.bbc.com/news/world-35210527" target="_blank">Exception</a>:
 
 https://twitter.com/BBCWorld/status/682997455575728132
