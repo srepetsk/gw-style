@@ -14,6 +14,4 @@ The chief diplomat of a consulate is a <em>Consul-General</em>; their office is 
 
 <hr />
 
-&nbsp;
-
 See also: <a href="https://style.srepetsk.net/e/embassy/">embassy</a>
