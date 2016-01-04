@@ -11,8 +11,8 @@ published: true
 kalinsPDFMeta:
   - '{"showLink":"default"}'
 ---
-Literally "The Army of Muhammad".
+Literally "The Army of Muhammad."
 
 An Islamist militant group based in Kashmir. The group's primary motive is to separate Kashmir from India. It has been banned in Pakistan since 2002.
 
-The group has been designated as a terrorist organisation by Australia, Canada, India, the UAE, the UK, the US and the UN.
+The group has been designated as a terrorist organisation by Australia, Canada, India, the UAE, U.K., U.S. and the U.N.
