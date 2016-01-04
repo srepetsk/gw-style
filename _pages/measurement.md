@@ -77,24 +77,19 @@ For approximations, use approximate conversions. Round up if the decimal is high
 	<li>square yards (not yards square)</li>
 	<li>square miles (not miles square)</li>
 </ul>
-<ul>
-	<li><strong>Mass/Weight</strong>
+<strong>Mass/Weight</strong>
 <ul>
 	<li><span class="example">ounce: <em>200 g (7.1 ounces)</em></span></li>
 	<li>pound = 16 ounces: <em>200 kg (441 pounds)</em></li>
 </ul>
-</li>
-	<li><strong><span class="example">Volume </span></strong><span class="example">(note there is a difference between U.S. and British Imperial volume measurement)</span>
+<strong><span class="example">Volume </span></strong><span class="example">(note there is a difference between U.S. and British Imperial volume measurement)</span>
 <ul>
 	<li>pint</li>
 	<li>gallon = 8 pints</li>
 </ul>
-</li>
-	<li><strong>Temperature</strong>
+<strong>Temperature</strong>
 <ul>
 	<li>F - Fahrenheit</li>
-</ul>
-</li>
 </ul>
 <h5>Need to convert units?</h5>
 <a href="https://encrypted.google.com/search?&amp;q=unit%20converter" target="_blank">Click here</a>
