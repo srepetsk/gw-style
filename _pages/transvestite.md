@@ -11,7 +11,7 @@ published: true
 kalinsPDFMeta:
   - '{"showLink":"default"}'
 ---
-A person who dresses in a style or manner traditionally associated with the opposite sex. Their gender does not change. A man who dresses as a woman is still a man. Do not confuse with transgender.
+A person who dresses in a style or manner traditionally associated with the opposite sex. Their gender does not change. A man who dresses as a woman is still a man. Do not confuse with <a href="https://style.srepetsk.net/t/transgender/">transgender</a>.
 
 &nbsp;
 
