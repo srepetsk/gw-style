@@ -8,6 +8,8 @@ layout: page
 permalink: >
   https://style.srepetsk.net/m/measurement/
 published: true
+kalinsPDFMeta:
+  - '{"showLink":"default"}'
 ---
 When referencing a distance, weight, volume or temperature, attempt to use metric as the primary system of measurement, with U.S. imperial units in parentheses. Typically, a conversion is only necessary the first time a number is mentioned: <em>The earthquake was 27 km (16.7 miles) deep.</em>
 
@@ -33,44 +35,49 @@ For approximations, use approximate conversions. Round up if the decimal is high
 
 <em>It was around 550 km (342 miles) away. </em>Not 341.8 miles.
 <h5>Common metric abbreviations:</h5>
-<ul>
-	<li><strong><span class="example">Length/Distance</span></strong>
+<strong><span class="example">Length/Distance</span></strong>
 <ul>
 	<li><span class="example"><span class="example">mm</span> - millimeter</span></li>
 	<li><span class="example"><span class="example">cm</span> - centimeter = 10mm</span></li>
 	<li><span class="example"><span class="example">m - </span>meter = 100 cm = 1000 mm</span></li>
 	<li><span class="example"><span class="example">km</span> - kilometer = 1000 m</span></li>
 </ul>
-</li>
-	<li><span class="example"><strong>Mass/Weight</strong></span>
+<strong>Area</strong>
+<ul>
+	<li>m² - square meters (not meters square). Spell out.</li>
+	<li>km² - square kilometers (not kilometers square). Spell out.</li>
+</ul>
+<span class="example"><strong>Mass/Weight</strong></span>
 <ul>
 	<li><span class="example">g</span> - gram</li>
 	<li><span class="example">kg</span> - kilogram = 1000 g</li>
 	<li><span class="example">t</span> - tonne or metric ton = 1000 kg. Usually, the word or phrase is easier to understand: <em>The elephant weighed 4 tonnes (3.9 tons). </em><em>The van weighed 10 metric tons (9.8 tons).</em></li>
 </ul>
-</li>
-	<li><strong><span class="example">Volume</span></strong>
+<strong><span class="example">Volume</span></strong>
 <ul>
 	<li><span class="example">ml - </span>milliliter</li>
 	<li><span class="example">l</span> - liter = 1000 ml. Note the word should be used if there is a possibility of confusion with the number 1: <em>1 liter, 21 liters </em></li>
+	<li>m³ - cubic meters (not meters cubed). Spell out.</li>
 </ul>
-</li>
-	<li><strong>Temperature</strong>
+<strong>Temperature</strong>
 <ul>
 	<li>C - celsius, not centigrade</li>
 </ul>
-</li>
-</ul>
 <h5>Common Imperial (U.S.) units:</h5>
-<ul>
-	<li><strong><span class="example">Length/Distance</span></strong>
+<strong><span class="example">Length/Distance</span></strong>
 <ul>
 	<li><span class="example"><span class="example">inch, plural inches: <em>20 cm (7.9 inches)</em></span></span></li>
 	<li><span class="example"><span class="example">foot = 12 inches, plural feet: <em>20 m (65.6 feet)</em></span></span></li>
 	<li>yard = 3 feet: <em>200 m (219 yards)</em></li>
 	<li><span class="example"><span class="example">mile</span></span></li>
 </ul>
-</li>
+<strong>Area</strong>
+<ul>
+	<li>square feet (not foot/feet square)</li>
+	<li>square yards (not yards square)</li>
+	<li>square miles (not miles square)</li>
+</ul>
+<ul>
 	<li><strong>Mass/Weight</strong>
 <ul>
 	<li><span class="example">ounce: <em>200 g (7.1 ounces)</em></span></li>
