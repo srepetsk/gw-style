@@ -14,7 +14,7 @@ Adjective: <strong>Kashmiri</strong>. Cashmere is a fabric.
 
 A disputed, mainly <a href="https://style.srepetsk.net/i/islam/">Muslim</a> region in the north of the Indian subcontinent, mostly under Indian control. Parts of the region are controlled by Pakistan and China.
 
-The territorial conflict over Kashmir started after partition in 1947 created modern . Both India and Pakistan claimed Kashmir after the 1947 partition. The territory was split, the majority under Indian control.
+The territorial conflict over Kashmir started after partition in 1947. Both India and Pakistan claimed Kashmir after the 1947 partition. The territory was split, the majority under Indian control.
 
 The population the state of Jammu and Kashmir is over 60 percent Muslim. It is the only Indian state which has a Muslim majority.
 
