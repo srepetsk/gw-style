@@ -18,6 +18,6 @@ The territorial conflict over Kashmir started after partition in 1947. Both Ind
 
 The population the state of Jammu and Kashmir is over 60 percent Muslim. It is the only Indian state which has a Muslim majority.
 
-Kashmir was the spark for two of the three India-Pakistan wars, in 1947-1948, and in 1965. In 1999, India fought with Pakistani-backed forces who had infiltrated Indian-controlled territory.
+Kashmir was the spark for two of the three India-Pakistan wars, in 1947-1948 and 1965. In 1999, India fought with Pakistani-backed forces who had infiltrated Indian-controlled territory.
 
 Many people in Kashmir, particularly in the Muslim-majority Kashmir valley, do not want it to be governed by India, preferring independence or joining Pakistan.
