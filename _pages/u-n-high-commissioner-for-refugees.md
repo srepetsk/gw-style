@@ -8,6 +8,8 @@ layout: page
 permalink: >
   https://style.srepetsk.net/u/u-n-high-commissioner-for-refugees/
 published: true
+kalinsPDFMeta:
+  - '{"showLink":"default"}'
 ---
 Formally, the <em>Office of the United Nations High Commissioner for Refugees</em>; <em>office</em> may be omitted.
 
@@ -21,7 +23,7 @@ Abbreviated as UNHCR, acceptable on second mention after the formal name:
 
 &nbsp;
 
-The head of the UNHCR is the High Commissioner for Refugees. Their name should proceed the title: <em>António Guterres, United Nations High Commissioner for Refugees</em>.
+The head of the UNHCR is the High Commissioner for Refugees. Their name should proceed the title: <em>Filippo Grandi, United Nations High Commissioner for Refugees</em>.
 
 &nbsp;
 
