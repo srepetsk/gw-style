@@ -5,7 +5,7 @@ author: ferguskelly
 post_date: 2016-01-04 01:41:08
 post_excerpt: ""
 layout: page
-permalink: https://style.srepetsk.net/kashmir/
+permalink: https://style.srepetsk.net/k/kashmir/
 published: true
 kalinsPDFMeta:
   - '{"showLink":"default"}'
