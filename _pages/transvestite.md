@@ -15,4 +15,8 @@ A person who dresses in a style or manner traditionally associated with the oppo
 
 &nbsp;
 
-A <strong>drag queen</strong> is a person, usually male, who dresses and often acts with exaggerated femininity and in feminine gender roles. Often they will exaggerate certain characteristics such as make-up and eyelashes for comic, dramatic or satirical effect. While drag is very much associated with gay men and gay culture, there are drag artists of all sexualities.
+A <strong>drag queen</strong> is a person, usually male, who dresses and often acts with exaggerated femininity and in feminine gender roles for comic, dramatic or satirical effect. While drag is very much associated with gay men and gay culture, there are drag artists of all sexualities.
+
+<hr />
+
+See also: <a href="https://style.srepetsk.net/g/gender-neutrality/">gender neutrality</a>
