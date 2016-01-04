@@ -12,4 +12,8 @@ kalinsPDFMeta:
 ---
 A unit in the Indian numbering system equal to one hundred thousand.
 
-Convert to U.S. usage: 1.5 lakh rupees should be expressed as <em>150,000 rupees</em>
+Convert to U.S. usage: 1.5 lakh rupees should be expressed as <em>150,000 rupees.</em>
+
+<hr />
+
+See <a href="https://style.srepetsk.net/c/crore/">crore</a>
