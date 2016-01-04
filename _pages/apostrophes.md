@@ -21,6 +21,10 @@ Add ' to a plural noun: <em>The puppies' rice</em>
 
 Generally, use 's if a word does not end in s. Apply the same rule for names: <em>The Jones' home.</em>
 
+&nbsp;
+
+Apostrophes can also indicate a missing letter in a word: <em>can't</em> for cannot.
+
 <hr />
 
 Part of a series on <a href="https://style.srepetsk.net/p/punctuation-2/">punctuation</a>.
