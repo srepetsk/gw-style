@@ -8,7 +8,32 @@ layout: page
 permalink: >
   https://style.srepetsk.net/u/united-nations/
 published: true
+kalinsPDFMeta:
+  - '{"showLink":"default"}'
 ---
-Can be abbreviated as <em>U.N.</em> on second mention.
+Can be abbreviated as <em>U.N.</em> on second mention. In headlines, UN (no periods).
 
-In headlines, UN (no periods).
+&nbsp;
+
+Note no definite article before abbreviations: <em>UNDP</em>, not <em>the</em> <em>UNDP</em>.
+<h3>United Nations Offices</h3>
+The official names of many United Nations offices may not be intuitive to their commonly-used names. Recognized terms (<em>refugee agency</em>, <em>human rights office</em>) are acceptable on first mention and in headlines but the agency name should be elsewhere in the story.
+
+U.N. offices are an exception to abbreviations style guidelines: the name and title should be written out the first time it appears, followed by the abbreviation or acronym in parentheses. Note no periods in acronyms.
+
+Abbreviations and acronyms are not used for names or titles that occur only once or twice in a text. When the entity referred to is better known by the abbreviation or acronym, it may however be preferable to include the abbreviation even if the name occurs only once (<em>UNESCO</em>).
+
+&nbsp;
+
+&nbsp;
+
+<strong>U.N. chemical weapons watchdog</strong>: Organisation for the Prohibition of Chemical Weapons (OPCW)
+
+<strong>U.N. High Commissioner for Human Rights</strong>: United Nations Office of the High Commissioner for Human Rights (OHCHR)
+
+<a href="https://style.srepetsk.net/u/u-n-high-commissioner-for-refugees/"><strong>U.N. refugee agency</strong></a>: United Nations High Commissioner for Refugees (UNHCR)
+
+<strong>UNESCO</strong>: United Nations Educational, Scientific and Cultural Organization
+
+&nbsp;
+<h2></h2>
