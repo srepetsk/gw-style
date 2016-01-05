@@ -21,9 +21,9 @@ The official names of many United Nations offices may not be intuitive to thei
 
 U.N. offices are an exception to abbreviations style guidelines: the name and title should be written out the first time it appears, followed by the abbreviation or acronym in parentheses. Note no periods in acronyms.
 
-Abbreviations and acronyms are not used for names or titles that occur only once or twice in a text. When the entity referred to is better known by the abbreviation or acronym, it may however be preferable to include the abbreviation even if the name occurs only once (<em>UNESCO</em>).
+Abbreviations and acronyms are not used for names or titles that occur only once or twice in a text.
 
-&nbsp;
+When the entity referred to is better known by the abbreviation or acronym, it may however be preferable to include the abbreviation even if the name occurs only once (<em>UNESCO</em>):
 
 &nbsp;
 
