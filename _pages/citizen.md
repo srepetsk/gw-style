@@ -1,6 +1,6 @@
 ---
 ID: 641
-post_title: citizen
+post_title: citizens vs. people
 author: ferguskelly
 post_date: 2016-01-04 23:11:14
 post_excerpt: ""
@@ -10,4 +10,12 @@ published: true
 kalinsPDFMeta:
   - '{"showLink":"default"}'
 ---
-A person's status, indicating their nationality. Do not use citizen to mean <strong>person</strong>.
+<strong>Citizen</strong>: A person's legal status, indicating their nationality. Do not use citizen to mean <strong>person</strong>:
+
+&nbsp;
+
+Spanish <em>citizens </em>are legally-recognized subjects, either native or naturalized, of Spain. The <em>people</em> <em>of Spain</em> may include citizens and non-citizens.
+
+&nbsp;
+
+&nbsp;
