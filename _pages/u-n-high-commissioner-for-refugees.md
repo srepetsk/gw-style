@@ -27,4 +27,8 @@ The head of the UNHCR is the High Commissioner for Refugees. Their name should p
 
 &nbsp;
 
-Do not confuse with UN<strong>CH</strong>R, a one character transposition. This is the <a href="https://style.srepetsk.net/u/u-n-commission-on-human-rights/">United Nations Commission on Human Rights</a>.
+Do not confuse with UNCHR, a one character transposition. This is the United Nations Commission on Human Rights, which was replaced in 2006 by the United Nations Human Rights Council (UNHRC).
+
+&nbsp;
+
+See <a href="https://style.srepetsk.net/u/united-nations/">United Nations</a>.
