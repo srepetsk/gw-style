@@ -15,7 +15,13 @@ From the Intersex Society of North America: "People who identify as <strong>tran
 
 &nbsp;
 
+People who identify as transgender may also elect not to undergo gender-reassignment surgeries or present as stereotypically male or female.
+
+&nbsp;
+
 People may self-identify as one gender, both or neither; others may identify as gender-fluid.
+
+&nbsp;
 
 &nbsp;
 
