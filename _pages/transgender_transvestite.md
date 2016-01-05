@@ -11,7 +11,7 @@ published: true
 kalinsPDFMeta:
   - '{"showLink":"default"}'
 ---
-From ISNA: "People who identify as transgender or transsexual are usually people who are born with typical male or female anatomies but feel as though they’ve been born into the “wrong body.” For example, a person who identifies as transgender or transsexual may have typical female anatomy but feel like a male and seek to become male by taking hormones or electing to have sex reassignment surgeries."
+From the Intersex Society of North America: "People who identify as <strong>transgender</strong> or transsexual are usually people who are born with typical male or female anatomies but feel as though they’ve been born into the “wrong body.” For example, a person who identifies as transgender or transsexual may have typical female anatomy but feel like a male and seek to become male by taking hormones or electing to have sex reassignment surgeries."
 
 &nbsp;
 
