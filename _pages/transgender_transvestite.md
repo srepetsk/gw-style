@@ -1,12 +1,12 @@
 ---
 ID: 652
-post_title: transgender
+post_title: transgender vs. transvestite
 author: ferguskelly
 post_date: 2016-01-04 23:54:05
 post_excerpt: ""
 layout: page
 permalink: >
-  https://style.srepetsk.net/t/transgender/
+  https://style.srepetsk.net/t/transgender_transvestite/
 published: true
 kalinsPDFMeta:
   - '{"showLink":"default"}'
@@ -19,7 +19,15 @@ Use only when relevant to the story. Use transgender at first mention, thereaft
 
 &nbsp;
 
-Do not confuse with <a href="https://style.srepetsk.net/t/transvestite/">transvestite</a>.
+A <strong>transvestite</strong> is a person who dresses in a style or manner traditionally associated with the opposite sex. Their gender does not change. A man who dresses as a woman is still a man (if he self-identifies as such).
+
+&nbsp;
+
+A drag queen is a person, usually male, who dresses and often acts with exaggerated femininity and in feminine gender roles for comic, dramatic or satirical effect. While drag is very much associated with gay men and gay culture, there are drag artists of all sexualities.
+
+&nbsp;
+
+On pronouns: Use the personal pronoun (<em>she</em>, <em>he</em>) preferred by the subject; do not avoid using gendered pronouns.
 
 <hr />
 
