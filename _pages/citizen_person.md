@@ -1,11 +1,12 @@
 ---
 ID: 641
-post_title: citizens vs. people
+post_title: citizen vs. person
 author: ferguskelly
 post_date: 2016-01-04 23:11:14
 post_excerpt: ""
 layout: page
-permalink: https://style.srepetsk.net/c/citizen/
+permalink: >
+  https://style.srepetsk.net/c/citizen_person/
 published: true
 kalinsPDFMeta:
   - '{"showLink":"default"}'
