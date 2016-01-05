@@ -15,6 +15,10 @@ From the Intersex Society of North America: "People who identify as <strong>tran
 
 &nbsp;
 
+People may self-identify as one gender, both or neither; additionally, some people identify as gender-fluid.
+
+&nbsp;
+
 Use only when relevant to the story. Use transgender at first mention, thereafter trans, and only as an adjective: <em>transgender person</em>, <em>trans person</em>; never <em>transgendered person</em> or <em>a transgender.</em>
 
 &nbsp;
@@ -27,7 +31,7 @@ A drag queen is a person, usually male, who dresses and often acts with exagge
 
 &nbsp;
 
-On pronouns: Use the personal pronoun (<em>she</em>, <em>he</em>) preferred by the subject; do not avoid using gendered pronouns.
+On pronouns: Use the personal pronoun (<em>she</em>, <em>he</em>) preferred by the subject; do not avoid using gendered pronouns simply because a subject identifies as transgender.
 
 <hr />
 
