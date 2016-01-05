@@ -31,9 +31,21 @@ When the entity referred to is better known by the abbreviation or acronym, it m
 
 <strong>UNESCO</strong>: United Nations Educational, Scientific and Cultural Organization (known by its acronym)
 
-<strong>U.N. High Commissioner for Human Rights</strong>: United Nations Office of the High Commissioner for Human Rights (OHCHR)
+<strong>U.N. High Commissioner for Human Rights</strong>:  Office of the High Commissioner for Human Rights (OHCHR)
 
-<a href="https://style.srepetsk.net/u/u-n-high-commissioner-for-refugees/"><strong>U.N. refugee agency</strong></a>: United Nations High Commissioner for Refugees (UNHCR)
+<strong>UNOPS</strong>: United Nations Office for Project Services (known by its acronym)
+
+<a href="https://style.srepetsk.net/u/u-n-high-commissioner-for-refugees/"><strong>U.N. refugee agency</strong></a>: Office of the United Nations High Commissioner for Refugees (UNHCR)
+
+&nbsp;
+
+&nbsp;
+
+Principal organs and major offices should not be abbreviated, although short titles may be used when appropriate: <em>General Assembly</em>, <em>Security Council</em>
+
+&nbsp;
+<h3>Short Titles</h3>
+Short titles may be used on second mention in some cases provided there is no risk of ambiguity: <em>the Assembly</em>, <em>the Council</em>, <em>the Committee</em>
 
 &nbsp;
 <h2></h2>
