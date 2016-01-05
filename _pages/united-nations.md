@@ -11,7 +11,7 @@ published: true
 kalinsPDFMeta:
   - '{"showLink":"default"}'
 ---
-Can be abbreviated as <em>U.N.</em> on second mention. In headlines, UN (no periods).
+Can be abbreviated <em>U.N.</em> on second mention. In headlines, <em>UN</em> (no periods).
 
 &nbsp;
 
@@ -29,11 +29,11 @@ Abbreviations and acronyms are not used for names or titles that occur only once
 
 <strong>U.N. chemical weapons watchdog</strong>: Organisation for the Prohibition of Chemical Weapons (OPCW)
 
+<strong>UNESCO</strong>: United Nations Educational, Scientific and Cultural Organization (known by its acronym)
+
 <strong>U.N. High Commissioner for Human Rights</strong>: United Nations Office of the High Commissioner for Human Rights (OHCHR)
 
 <a href="https://style.srepetsk.net/u/u-n-high-commissioner-for-refugees/"><strong>U.N. refugee agency</strong></a>: United Nations High Commissioner for Refugees (UNHCR)
-
-<strong>UNESCO</strong>: United Nations Educational, Scientific and Cultural Organization
 
 &nbsp;
 <h2></h2>
