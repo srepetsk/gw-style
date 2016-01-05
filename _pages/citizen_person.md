@@ -19,4 +19,10 @@ Spanish <em>citizens </em>are legally-recognized subjects, either native or nat
 
 &nbsp;
 
+Correct: <em>Millions of</em><em> Senegalese citizens will vote for president in 2017.</em>
+
+Incorrect: <em></em>
+
+&nbsp;
+
 &nbsp;
