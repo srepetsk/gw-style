@@ -42,8 +42,6 @@ When the entity referred to is better known by the abbreviation or acronym, it m
 &nbsp;
 
 Principal organs and major offices should not be abbreviated, although short titles may be used when appropriate: <em>General Assembly</em>, <em>Security Council</em>
-
-&nbsp;
 <h3>Short Titles</h3>
 Short titles may be used on second mention in some cases provided there is no risk of ambiguity: <em>the Assembly</em>, <em>the Council</em>, <em>the Committee</em>
 
