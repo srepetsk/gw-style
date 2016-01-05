@@ -15,7 +15,7 @@ From the Intersex Society of North America: "People who identify as <strong>tran
 
 &nbsp;
 
-People may self-identify as one gender, both or neither; additionally, some people identify as gender-fluid.
+People may self-identify as one gender, both or neither; others may identify as gender-fluid.
 
 &nbsp;
 
