@@ -8,6 +8,8 @@ layout: page
 permalink: >
   https://style.srepetsk.net/g/gender-neutrality/
 published: true
+kalinsPDFMeta:
+  - '{"showLink":"default"}'
 ---
 Avoid gendered job titles such as <em>fireman</em>, <em>stewardess</em> or <em>male nurse</em>; use <em>firefighter</em>, <em>flight attendant</em> and <em>nurse</em>.
 
