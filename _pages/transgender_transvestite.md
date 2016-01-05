@@ -23,8 +23,6 @@ People may self-identify as one gender, both or neither; others may identify as
 
 &nbsp;
 
-&nbsp;
-
 Use only when relevant to the story. Use transgender at first mention, thereafter trans, and only as an adjective: <em>transgender person</em>, <em>trans person</em>; never <em>transgendered person</em> or <em>a transgender.</em>
 
 &nbsp;
