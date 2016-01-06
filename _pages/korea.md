@@ -19,8 +19,6 @@ kalinsPDFMeta:
 &nbsp;
 
 The Koreas are technically still in a state of war; an armistice signed on July 27, 1953 created the DMZ but no peace treaty was ever signed.
-
-&nbsp;
 <h3>North Korea</h3>
 <strong>Pyongyang</strong> is the capital.
 
@@ -41,8 +39,6 @@ President: Park Guen-hye
 Prime Minister: Hwang Kyo-ahn
 
 The capital is <strong>Seoul</strong>.
-
-&nbsp;
 <h3>Korean Names</h3>
 Written in two parts with a hyphen: <em>Kim Jong-un</em>, <em>Park Guen-hye</em>; they become <em>Kim</em> and <em>Park</em> on second mention.
 
