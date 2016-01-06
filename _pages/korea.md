@@ -32,7 +32,7 @@ Kim Jong-un has chosen his own titles:
 	<li>First Secretary of the Workers' Party</li>
 	<li>Chairman of the Workers' Party Central Military Commission</li>
 </ul>
-It is sufficient to refer to Jong-un as the leader or supreme leader.
+It is sufficient to refer to Kim Jong-un as the leader or supreme leader.
 <h3>South Korea</h3>
 President: Park Guen-hye
 
