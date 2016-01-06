@@ -14,7 +14,7 @@ kalinsPDFMeta:
 
 &nbsp;
 
-<em>North</em>, <em>South</em> and <em>DMZ</em> are acceptable on subsequent mentions.
+<em>The North</em>, <em>the South</em> and <em>DMZ</em> are acceptable on subsequent mentions.
 
 &nbsp;
 
