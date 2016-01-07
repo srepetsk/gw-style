@@ -27,15 +27,17 @@ When the entity referred to is better known by the abbreviation or acronym, it m
 
 &nbsp;
 
-<strong>U.N. chemical weapons watchdog</strong>: Organisation for the Prohibition of Chemical Weapons (OPCW)
+<strong>U.N. chemical weapons watchdog</strong>: Organization for the Prohibition of Chemical Weapons (OPCW)
 
 <strong>UNESCO</strong>: United Nations Educational, Scientific and Cultural Organization (known by its acronym)
 
-<strong>U.N. High Commissioner for Human Rights</strong>:  Office of the High Commissioner for Human Rights (OHCHR)
+<strong>U.N. High Commissioner for Human Rights</strong>: Office of the High Commissioner for Human Rights (OHCHR)
 
 <strong>UNOPS</strong>: United Nations Office for Project Services (known by its acronym)
 
 <a href="https://style.srepetsk.net/u/u-n-high-commissioner-for-refugees/"><strong>U.N. refugee agency</strong></a>: Office of the United Nations High Commissioner for Refugees (UNHCR)
+
+<strong>World Health Organization</strong>: United Nations World Health Organization (WHO)
 
 &nbsp;
 
