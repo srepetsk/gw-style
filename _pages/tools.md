@@ -7,11 +7,13 @@ post_excerpt: ""
 layout: page
 permalink: https://style.srepetsk.net/tools/
 published: true
+kalinsPDFMeta:
+  - '{"showLink":"default"}'
 ---
 Not everything you see and find on the Internet is real - shocking, I know. However, with the use of some tools, the process to narrow down what is real and not can be somewhat straight-forward. Here is a list of some that the community uses.
 <h3>Translation</h3>
 <ul>
-	<li>Google Chrome: you can right-click a page in a foreign language and press the Translate button. While not 100% accurate, this can give you a good idea of what the content is about.</li>
+	<li>Google Chrome: you can right-click a page in a foreign language and press the Translate button. While <a href="http://www.theguardian.com/technology/2016/jan/07/google-translates-russia-mordor-foreign-minister-ukrainian" target="_blank">not 100% accurate</a>, this can give you a good idea of what the content is about.</li>
 	<li><a href="https://translate.google.com/" target="_blank">Google Translate</a> allows you to paste text and get a rough translation</li>
 </ul>
 <h3>Photo Authenticity</h3>
