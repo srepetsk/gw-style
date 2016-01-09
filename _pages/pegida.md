@@ -10,6 +10,6 @@ published: true
 kalinsPDFMeta:
   - '{"showLink":"default"}'
 ---
-German right wing, anti-Islam political movement. Acronym for: Patriotic Europeans Against the Islamisation of the West.
+German right wing, anti-Islam political movement. Acronym for: <em>Patriotic Europeans Against the Islamisation of the West</em>.
 
 Sometimes styled as <em>Patriotic Europeans Against the Islamisation of the Occident</em>.
