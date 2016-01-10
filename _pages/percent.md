@@ -7,5 +7,9 @@ post_excerpt: ""
 layout: page
 permalink: https://style.srepetsk.net/p/percent/
 published: true
+kalinsPDFMeta:
+  - '{"showLink":"default"}'
 ---
 Not per cent or %, but percent.
+<h5>Percentage rises and falls</h5>
+An increase from 15% to 17% is a <strong>two percentage point increase</strong> or a <strong>2-point increase</strong>, not a 2 percent increase.
