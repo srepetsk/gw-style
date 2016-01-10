@@ -12,4 +12,4 @@ kalinsPDFMeta:
 ---
 Not per cent or %, but percent.
 <h5>Percentage rises and falls</h5>
-An increase from 15% to 17% is a <strong>two percentage point increase</strong> or a <strong>2-point increase</strong>, not a 2 percent increase.
+An increase from 15 percent to 17 per cent is a <strong>two percentage point increase</strong> or a <strong>2-point increase</strong>, not a 2 percent increase.
