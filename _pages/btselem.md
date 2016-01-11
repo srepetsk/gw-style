@@ -13,3 +13,5 @@ kalinsPDFMeta:
 (Hebrew: בצלם‎, Iliterally "in the image of [God]")
 
 An independent non-profit, non-goovernmental organization which monitors and documents human rights violations against Palestinians and aims to "create a human rights culture in Israel".
+
+Also known as the Israeli Information Center for Human Rights in the Occupied Territories.
