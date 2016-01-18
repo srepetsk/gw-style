@@ -8,11 +8,15 @@ layout: page
 permalink: >
   https://style.srepetsk.net/a/al-qaeda-in-islamic-maghreb/
 published: true
+kalinsPDFMeta:
+  - '{"showLink":"default"}'
 ---
 Militant Islamist group based in Algeria. Members are mainly from Algerian and Saharan communities, such as the Tuaregs and Berabiche tribal clans of Mali.
 
 Founded by Hassan Hattab as the Salafist Group for Preaching and Combat (GSPC); linked to <a href="https://style.srepetsk.net/a/al-qaeda/">al-Qaeda</a> before 2001; changed to current name in 2007.
 
 Can be abbreviated to AQIM on second mention.
+
+AQIM operates a media outlet known as al-Andalus
 
 Linked to <a href="https://style.srepetsk.net/a/al-shabaab/">al-Shabaab</a>.
