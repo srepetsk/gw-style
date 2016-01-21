@@ -1,11 +1,11 @@
 ---
 ID: 719
-post_title: ~Stories
+post_title: ~New Stories
 author: ferguskelly
 post_date: 2016-01-21 00:44:31
 post_excerpt: ""
 layout: page
-permalink: https://style.srepetsk.net/stories8/
+permalink: https://style.srepetsk.net/new-stories/
 published: true
 kalinsPDFMeta:
   - '{"showLink":"default"}'
