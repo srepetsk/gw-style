@@ -21,6 +21,10 @@ kalinsPDFMeta:
 At least one source should be included with every article, more if you have them.
 
 &nbsp;
+
+<hr />
+
+&nbsp;
 <h3>Picture Credits</h3>
 Some of the pics we use come from social media sites.
 
