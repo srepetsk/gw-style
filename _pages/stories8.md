@@ -5,7 +5,7 @@ author: ferguskelly
 post_date: 2016-01-21 00:44:31
 post_excerpt: ""
 layout: page
-permalink: https://style.srepetsk.net/stories4/
+permalink: https://style.srepetsk.net/stories8/
 published: true
 kalinsPDFMeta:
   - '{"showLink":"default"}'
