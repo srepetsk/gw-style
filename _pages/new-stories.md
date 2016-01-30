@@ -145,5 +145,59 @@ Superfluous articles and verbs can be omitted and replaced with a comma: <em>Ju
 For more on abbreviation, capitalization and punctuation see <a href="https://style.srepetsk.net/h/headlines/">headlines</a>.
 
 &nbsp;
+<h3>Story</h3>
+The first paragraph (the lede) tells the reader who, what, where, when, why and how:
+
+Who is involved?
+
+What happened?
+
+Where did it happen?
+
+When did it happen?
+
+Why did it happen?
+
+How did it happen?
+
+&nbsp;
+
+Be concise.
+
+This paragraph answers the "five Ws and an H" and gives the reader a general idea of what happened while encouraging them to continue reading. Be general in the lede and expound on the details in subsequent paragraphs:
+
+&nbsp;
+
+<em>More than a dozen people people were killed in a series of suicide bombings near Nigeria's capital Abuja on Friday, officials said.</em>
+
+&nbsp;
+
+<em>In the first attack, a pair of bombers detonated suicide vests in a market in the town of Kuje, about 40 kilometers from the capital, killing 13 and injuring 20.</em>
+
+<em>Almost simultaneously, another bomb struck Nyanya, one of Abuja's most populated towns, killing two people and injuring 19 others, according to witness statements.</em>
+
+<em>According to the National Emergency Management Agency, two corpses and one critically injured person were taken to Asokoro General Hospital. The remaining 18 victims are being treated at the Nyanga General Hospital.</em>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Every statement should be attributed to a source (witnesses, official statements, other reporting). Verify the information. Do not rely on other copy - even wires - to correctly spell a person's name, for example. Links to all sources should be included below the text (See Sources below).
+
+&nbsp;
+
+A note on numbers: Do not get bogged down by the exact number of casualties, for example. In breaking news these numbers change quickly; when there is conflicting or unverified information, use the lower reported number.
+<h3>Sources</h3>
+Every statement or fact in the text should have a source (See Story above).
+
+Add a link to every source in the box below the text.
+
+&nbsp;
+
+Note: Associated Press and Reuters website links do not render properly; use a tweet instead. Some sources (The New York Times is one) do not render at all and require you to manually input the information. Either use a tweet or manually input the headline, photo (if available) and lede exactly as they are in the original.
+
+&nbsp;
 
 &nbsp;
