@@ -81,14 +81,13 @@ See the Creative Commons wiki for more on <a href="https://wiki.creativecommons
 &nbsp;
 <h5>Google Images</h5>
 Images that are licensed for use which come from Google Images can be difficult to find an author or title for. In this case use whatever information you have in the standard attribution format: (Image: Bob Example/A Website)
-
-&nbsp;
 <h5>Public Domain</h5>
 There is no legal requirement to cite public domain images but you should do it anyway.
 
 &nbsp;
 
-&nbsp;
+<hr />
+
 <h3>Title or Tag</h3>
 The title (or tag) should be brief and specific with an eye to SEO. Note that you cannot reuse titles.
 
@@ -102,7 +101,8 @@ Do not type the titles in all-caps; they will generate appropriately on the webs
 
 <strong>Did you even read this?: </strong><em>GUN ARREST</em>, <em>disneyEURO arrest</em>, <em>ZIKA meeting to be held</em>
 
-&nbsp;
+<hr />
+
 <h3>Headlines</h3>
 Headlines should be concise, specific, useful and timely. The headline should tell the story - more people will read (and engage with) the headline than will ever click on the link.
 
@@ -148,10 +148,9 @@ Superfluous articles and verbs can be omitted and replaced with a comma: <em>Ju
 
 For more on abbreviation, capitalization and punctuation see <a href="https://style.srepetsk.net/h/headlines/">headlines</a>.
 
-&nbsp;
-<h3>Story</h3>
-&nbsp;
+<hr />
 
+<h3>Story</h3>
 Good reporting follows the inverted pyramid: The most important information goes at the beginning of the story.
 
 &nbsp;
@@ -200,7 +199,12 @@ A note on numbers: Do not get bogged down by the exact number of casualties, for
 
 [caption id="attachment_733" align="alignleft" width="300"]<img class="size-medium wp-image-733" src="https://style.srepetsk.net/wp-content/uploads/2016/01/pyramid1-300x256.png" alt="The Air Force Departmental Publishing Office (AFDPO)" width="300" height="256" /> The Air Force Departmental Publishing Office (AFDPO)[/caption]
 
-[caption id="attachment_734" align="alignright" width="300"]<img class="size-medium wp-image-734" src="https://style.srepetsk.net/wp-content/uploads/2016/01/pyramid2-300x254.jpg" alt=" comprehensive take on the inverted pyramid in journalism, which explains more precisely the kind of prioritizing a journalist should engage in (Christopher Schwartz/CC BY-SA 3.0)" width="300" height="254" /> Comprehensive take on the inverted pyramid in journalism, which explains more precisely the kind of prioritizing a journalist should engage in (Christopher Schwartz/CC BY-SA 3.0)[/caption]
+[caption id="attachment_734" align="alignright" width="300"]<img class="size-medium wp-image-734" src="https://style.srepetsk.net/wp-content/uploads/2016/01/pyramid2-300x254.jpg" alt=" comprehensive take on the inverted pyramid in journalism, which explains more precisely the kind of prioritizing a journalist should engage in (Christopher Schwartz/CC BY-SA 3.0)" width="300" height="254" /> Comprehensive take on the inverted pyramid in journalism, which explains more precisely the kind of prioritizing a journalist should engage in (Christopher Schwartz/Wikimedia/CC BY-SA 3.0)[/caption]
+<h3></h3>
+
+<hr />
+
+&nbsp;
 <h3>Sources</h3>
 Every statement or fact in the text should have a source (See Story above).
 
