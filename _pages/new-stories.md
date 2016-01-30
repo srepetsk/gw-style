@@ -49,7 +49,7 @@ These images should be credited in Creative Commons format, and this is where se
 We use three of the licenses:
 <ul>
 	<li>Attribution or <strong>CC BY</strong></li>
-	<li>Attribution-ShareAlike or <strong>CC BY-SA </strong>(sometimes <strong>CC BY-SA 3.0 </strong>or <strong>CC BY-SA 2.0</strong>)</li>
+	<li>Attribution-ShareAlike or <strong>CC BY-SA</strong></li>
 	<li>Attribution-NoDerivs or <strong>CC BY-ND</strong></li>
 </ul>
 Creative Commons asks that you use the format: Title/Author/Source/License (TASL)
