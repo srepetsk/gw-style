@@ -23,15 +23,16 @@ At least one source should be included with every article, more if you have them
 &nbsp;
 
 <hr />
+
 <h3>Picture Credits</h3>
 Some of the pics we use come from social media sites.
 
 Add a line to the END of the story like this:
-(Photo: Agency/Photographer/Where you got it) for example: (Photo: AFP/Bob Example/Twitter) or (Photo: AP Photo/Person Smith/Facebook)
+(Image: Agency/Photographer/Where you got it) for example: (Image: AFP/Bob Example/Twitter) or (Image: AP Photo/Person Smith/Facebook)
 
-If there is no agency, leave it out, just give the name of the photographer and where you got it, for example: (Photo: Bob Example/Twitter)
+If there is no agency, leave it out, just give the name of the photographer and where you got it, for example: (Image: Bob Example/Twitter)
 
-It the person sharing the photo uses an obvious fake name, use their handle instead, for example: (Photo: @BobExample/Twitter)
+It the person sharing the photo uses an obvious fake name, use their handle instead, for example: (Image: @BestExampleGuy/Twitter)
 
 &nbsp;
 <h5>Images licensed for re-use</h5>
@@ -44,14 +45,18 @@ These images should be credited in Creative Commons format, and this is where se
 We use three of the licenses:
 <ul>
 	<li>Attribution or <strong>CC BY</strong></li>
-	<li>Attribution-ShareAlike or <strong>CC BY-SA</strong></li>
+	<li>Attribution-ShareAlike or <strong>CC BY-SA </strong>(sometimes <strong>CC BY-SA 3.0 </strong>or <strong>CC BY-SA 2.0</strong>)</li>
 	<li>Attribution-NoDerivs or <strong>CC BY-ND</strong></li>
 </ul>
-Creative Commons asks that you use the format: Title/Author/Source/License
+Creative Commons asks that you use the format: Title/Author/Source/License (TASL)
 
-For example: (Photo: A Nice Pic/Jim Photographer/Wikimedia/CC BY-SA)
+For example: (Image: A Nice Pic/Jim Photographer/Wikimedia/CC BY-SA)
 
 If any of these are not available or unknown it is fine to drop that element.
+
+&nbsp;
+
+Note: The title is a requirement of all CC licenses version 3.0 or earlier and optional for 4.0. The author, source, license and extra notices is required for all CC licenses.
 
 &nbsp;
 
@@ -59,11 +64,15 @@ If any of these are not available or unknown it is fine to drop that element.
 
 The author is Michele M. F.
 
-The license element says: "This file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license." or CC BY-SA
+The license element says: "This file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license." (CC BY-SA)
 
 There is no obvious name for this pic.
 
 So, the correct attribution is (Photo: Michele M. F./Wikimedia/CC BY-SA)
+
+&nbsp;
+
+See the Creative Commons wiki for more on <a href="https://wiki.creativecommons.org/wiki/Best_practices_for_attribution#This_is_an_ideal_attribution" target="_blank">best practices</a>.
 
 &nbsp;
 <h5>Google Images</h5>
