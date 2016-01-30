@@ -85,5 +85,65 @@ Images that are licensed for use which come from Google Images can be difficult
 &nbsp;
 
 &nbsp;
+<h3>Title or Tag</h3>
+The title (or tag) should be brief and specific with an eye to SEO. Note that you cannot reuse titles.
+
+Titles are limited to 30 characters.
+
+Do not type the titles in all-caps; they will generate appropriately on the website. Use general capitalization rules.
+
+<strong>Good</strong>: <em>Oregon refuge</em>, <em>Disneyland Paris arrest</em>, <em>Zika emergency meeting</em>
+
+<strong>Not so good: </strong><em>man arrested at disney</em>, <em>Disney man arrest</em>, <em>disney</em>, <em>Zika virus</em>
+
+<strong>Did you even read this?: </strong><em>GUN ARREST</em>, <em>disneyEURO arrest</em>, <em>ZIKA meeting to be held</em>
+
+&nbsp;
+<h3>Headlines</h3>
+Headlines should be concise, specific, useful and timely. The headline should tell the story - more people will read (and engage with) the headline than will ever click on the link.
+
+&nbsp;
+
+Headlines are limited to 76 characters.
+
+&nbsp;
+
+Use verbs and active voice.
+
+&nbsp;
+
+<strong>Good: </strong>Elephant parade tramples local man
+
+<strong>Bad: </strong>Local man killed in elephant migration
+
+&nbsp;
+
+<strong>Good: </strong>Indonesia calls off search for missing ferry passengers
+
+<strong>Bad: </strong>Ferry victim search is called off
+
+&nbsp;
+
+Avoid past exonerative tense: <em>Mistakes were made </em>is a famous example. For more, see McSweeney's <a href="http://www.mcsweeneys.net/articles/an-interactive-guide-to-ambiguous-grammar" target="_blank">Interactive Guide for Ambiguous Grammar</a>.
+
+&nbsp;
+
+Attribute statements and do not convey fact where there is speculation: <em>Clinton emails may be classified, FBI says</em>
+
+<em>Witnesses: Dozens injured in Mogadishu attack</em>
+
+&nbsp;
+
+Don't rely on numbers to tell the story. <em>3 bombers kill 7 in Jakarta bombings </em>may not be as useful as <em>At least 7 killed in series of Jakarta blasts</em>. Other times, numbers are important to convey scale: <em>Indonesia sanctions 23 companies over peat fires </em>tells the story better than <em>Indonesia sanctions companies over peat fires</em>.
+
+&nbsp;
+
+Superfluous articles and verbs can be omitted and replaced with a comma: <em>Jury acquits Smith on rape, murder charges</em>
+
+&nbsp;
+
+For more on abbreviation, capitalization and punctuation see <a href="https://style.srepetsk.net/h/headlines/">headlines</a>.
+
+&nbsp;
 
 &nbsp;
