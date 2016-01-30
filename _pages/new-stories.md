@@ -10,7 +10,7 @@ published: true
 kalinsPDFMeta:
   - '{"showLink":"default"}'
 ---
-<a href="https://style.srepetsk.net/wp-content/uploads/2016/01/new-story.png"><img class="alignright wp-image-720 size-medium" src="https://style.srepetsk.net/wp-content/uploads/2016/01/new-story-279x300.png" alt="new-story" width="279" height="300" /></a>Stories require at least five things:
+<a href="https://style.srepetsk.net/wp-content/uploads/2016/01/new-story.png"><img class="alignright wp-image-720 size-medium" src="https://style.srepetsk.net/wp-content/uploads/2016/01/new-story-279x300.png" alt="new-story" width="279" height="300" /></a>Grasswire stories have five elements:
 <ol>
 	<li>picture</li>
 	<li>title (or tag)</li>
