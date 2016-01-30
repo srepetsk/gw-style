@@ -132,7 +132,9 @@ Avoid past exonerative tense: <em>Mistakes were made </em>is a famous example.
 
 &nbsp;
 
-Attribute statements and do not convey fact where there is speculation: <em>Clinton emails may be classified, FBI says</em>
+Attribute statements and do not convey fact where there is speculation:
+
+<em>Clinton emails may be classified, FBI says</em>
 
 <em>Witnesses: Dozens injured in Mogadishu attack</em>
 
