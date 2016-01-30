@@ -35,6 +35,10 @@ If there is no agency, leave it out, just give the name of the photographer and 
 It the person sharing the photo uses an obvious fake name, use their handle instead, for example: (Image: @BestExampleGuy/Twitter)
 
 &nbsp;
+
+Note: Use <strong>image</strong> rather than photo or picture to account for all possibilities.
+
+If the image is a Grasswire-created composition of two or more images (for example, a photo overlaid on a map), credit them accordingly (photo, map).
 <h5>Images licensed for re-use</h5>
 We also use photos licensed for re-use from other sites. Most of these are licensed by Creative Commons.
 
