@@ -18,7 +18,7 @@ kalinsPDFMeta:
 	<li>story</li>
 	<li>source(s)</li>
 </ol>
-At least one source should be included with every article, more if you have them.
+&nbsp;
 
 &nbsp;
 
@@ -33,9 +33,11 @@ Add a line to the END of the story: (Image: Agency/Photographer/Where you got i
 
 <em>(Image: AP Photo/Person Smith/Facebook)</em>
 
-If there is no agency, leave it out, just give the name of the photographer and where you got it: <em>(Image: Bob Example/Twitter)</em>
+&nbsp;
 
-It the person sharing the photo uses an obvious fake name, use their handle instead: <em>(Image: @BestExampleGuy/Twitter)</em>
+If there is no agency just give the name of the photographer and where you got it: <em>(Image: Bob Example/Twitter)</em>
+
+If the person sharing the photo uses an obvious fake name, use their handle instead: <em>(Image: @BestExampleGuy/Twitter)</em>
 
 &nbsp;
 
@@ -84,12 +86,8 @@ So, the correct attribution is <em>(Photo: Michele M. F./Wikimedia/CC BY-SA)</em
 &nbsp;
 
 See the Creative Commons wiki for more on <a href="https://wiki.creativecommons.org/wiki/Best_practices_for_attribution#This_is_an_ideal_attribution" target="_blank">best practices</a>.
-
-&nbsp;
 <h5>Google Images</h5>
 Images that are licensed for use which come from Google Images can be difficult to find an author or title for. In this case use whatever information you have in the standard attribution format: <em>(Image: Bob Example/A Website)</em>
-<h5>Public Domain</h5>
-There is no legal requirement to cite public domain images but you should do it anyway.
 
 &nbsp;
 
@@ -121,13 +119,11 @@ Headlines are limited to 76 characters.
 
 Use verbs and active voice.
 
-&nbsp;
-
 <strong>Good: </strong>Elephant parade tramples local man
 
 <strong>Bad: </strong>Local man killed in elephant migration
 
-<strong>Bad: </strong>Elephant migration death
+<strong>Worse: </strong>Elephant migration death
 
 &nbsp;
 
@@ -149,7 +145,9 @@ Attribute statements and do not convey fact where there is speculation:
 
 &nbsp;
 
-Don't rely on numbers to tell the story. <em>3 bombers kill 7 in Jakarta bombings </em>may not be as useful as <em>At least 7 killed in series of Jakarta blasts</em>. Other times, numbers are important to convey scale: <em>Indonesia sanctions 23 companies over peat fires </em>tells the story better than <em>Indonesia sanctions companies over peat fires</em>.
+Don't rely on numbers to tell the story. <em>3 bombers kill 7 in Jakarta bombings </em>may not be as useful as <em>At least 7 killed in series of Jakarta blasts</em>.
+
+Other times, numbers are important to convey scale: <em>Indonesia sanctions 23 companies over peat fires </em>tells the story better than <em>Indonesia sanctions companies over peat fires</em>.
 
 &nbsp;
 
@@ -213,13 +211,15 @@ Avoid past exonerative tense: <em>Mistakes were made </em>is a famous example.
 
 <strong>Good: </strong>The U.S. military accidentally bombed a charity hospital in Afghanistan this morning, killing and injuring dozens of staff and patients, according to a Medicins Sans Frontieres statement.
 
-<strong>Bad: </strong>A bombing killed dozens of staff and patients today at a charity hospital in Afghanistan run by Medicins Sans Frontieres.
+<strong>Bad: </strong>Dozens of staff and patients were killed in a bombing today at a charity hospital in Afghanistan run by Medicins Sans Frontieres.
 <h5>Impact</h5>
 Put the most important information first:
 
 <strong>Okay: </strong><em>The European Union's criminal intelligence agency says at least 10,000 refugee children have gone missing since arriving in Europe.</em>
 
 <strong>Better: </strong><em>At least 10,000 refugee children have gone missing since arriving in Europe, according to the European Union's criminal intelligence agency. </em>(Puts the impact - 10,000 missing kids - first)
+
+&nbsp;
 
 <strong>Okay: </strong><em>Iraqi officials said more mass graves containing the bodies of Yazidi women and children have been uncovered in Sinjar.</em>
 
@@ -241,7 +241,7 @@ Be concise. Put a fact in every sentence and stick to one idea.
 
 <em>The findings are a breakthrough for NASA's Mars Exploration Program, the long-term program established in 1993 to explore the possibility of life on Mars and the planet's climate and topography. Although scientists identified water frozen in Mars' polar ice caps with the Mars Opportunity rover expedition in 2004, today's announcement is the first time the agency has said there is </em><i>definitive evidence of water on the red planet.</i>
 <h5>Sourcing</h5>
-Every statement should be attributed to a source (witnesses, official statements, other reporting). Verify the information. Do not rely on other copy - even wires - to correctly spell a person's name, for example. Use special care when reporting statistics. Links to all sources should be included below the text (See Sources below).
+Every statement should be attributed to a source (witnesses, official statements, other reporting). Verify the information. Do not rely on other copy - even wires - to correctly spell a person's name, for example. Use special care when reporting statistics. Links to all sources should be included below the text (See <strong>Sources</strong> below).
 
 &nbsp;
 
