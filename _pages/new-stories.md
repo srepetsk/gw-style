@@ -171,7 +171,7 @@ Good reporting follows the inverted pyramid: The most important information goes
 [caption id="attachment_733" align="alignleft" width="300"]<img class="size-medium wp-image-733" src="https://style.srepetsk.net/wp-content/uploads/2016/01/pyramid1-300x256.png" alt="The Air Force Departmental Publishing Office (AFDPO)" width="300" height="256" /> The Air Force Departmental Publishing Office (AFDPO)[/caption]
 
 [caption id="attachment_734" align="alignright" width="300"]<img class="size-medium wp-image-734" src="https://style.srepetsk.net/wp-content/uploads/2016/01/pyramid2-300x254.jpg" alt=" comprehensive take on the inverted pyramid in journalism, which explains more precisely the kind of prioritizing a journalist should engage in (Christopher Schwartz/CC BY-SA 3.0)" width="300" height="254" /> Comprehensive take on the inverted pyramid in journalism, which explains more precisely the kind of prioritizing a journalist should engage in (Christopher Schwartz/Wikimedia/CC BY-SA 3.0)[/caption]
-<h3></h3>
+<h5>Lede</h5>
 The first paragraph (the lede) tells the reader who, what, where, when, why and how:
 <ul>
 	<li>Who is involved?</li>
@@ -200,10 +200,8 @@ This paragraph answers the "five Ws and an H" and gives the reader a general ide
 &nbsp;
 
 <em>According to the National Emergency Management Agency, two corpses and one critically injured person were taken to Asokoro General Hospital. The remaining 18 victims are being treated at the Nyanga General Hospital.</em>
-
-&nbsp;
-
-Use verbs and active voice.
+<h5>Active voice</h5>
+Write in active voice.
 
 <strong>Good: </strong>The dog bit the bad man.
 
@@ -216,9 +214,33 @@ Avoid past exonerative tense: <em>Mistakes were made </em>is a famous example.
 <strong>Good: </strong>The U.S. military accidentally bombed a charity hospital in Afghanistan this morning, killing and injuring dozens of staff and patients, according to a Medicins Sans Frontieres statement.
 
 <strong>Bad: </strong>A bombing killed dozens of staff and patients today at a charity hospital in Afghanistan run by Medicins Sans Frontieres.
+<h5>Impact</h5>
+Put the most important information first:
+
+<strong>Okay: </strong><em>The European Union's criminal intelligence agency says at least 10,000 refugee children have gone missing since arriving in Europe.</em>
+
+<strong>Better: </strong><em>At least 10,000 refugee children have gone missing since arriving in Europe, according to the European Union's criminal intelligence agency. </em>(Puts the impact - 10,000 missing kids - first)
+
+<strong>Okay: </strong><em>Iraqi officials said more mass graves containing the bodies of Yazidi women and children have been uncovered in Sinjar.</em>
+
+<strong>Better: </strong><em>Yazidis returning to Sinjar uncovered three more mass graves containing the bodies of women and children, Iraqi officials said today. </em>(Immediately establishes context)
+<h5>Brevity</h5>
+Be concise. Put a fact in every sentence and stick to one idea.
+
+<strong>Good: </strong><em>NASA scientists announced Monday that they have found "definitive signs" of liquid water on Mars.</em>
 
 &nbsp;
 
+<em>The findings are a breakthrough for NASA's Mars Exploration Program. Although scientists have previously identified water frozen in Mars' polar caps, this is the first definitive evidence of liquid water on the red planet.</em>
+
+&nbsp;
+
+<strong>Confusing: </strong><em>NASA scientist announced Monday they have found "definitive signs" of liquid water on Mars.</em>
+
+&nbsp;
+
+<em>The findings are a breakthrough for NASA's Mars Exploration Program, the long-term program established in 1993 to explore the possibility of life on Mars and the planet's climate and topography. Although scientists identified water frozen in Mars' polar ice caps with the Mars Opportunity rover expedition in 2004, today's announcement is the first time the agency has said there is </em><i>definitive evidence of water on the red planet.</i>
+<h5>Sourcing</h5>
 Every statement should be attributed to a source (witnesses, official statements, other reporting). Verify the information. Do not rely on other copy - even wires - to correctly spell a person's name, for example. Use special care when reporting statistics. Links to all sources should be included below the text (See Sources below).
 
 &nbsp;
