@@ -230,7 +230,7 @@ A note on casualty numbers: Do not get bogged down by the exact number of casual
 <h3>Sources</h3>
 Every statement or fact in the text should have a source (See Story above).
 
-Add a link to every source in the box below the text.
+Add a link to every source in the box below the text. Every story needs at least one link.
 
 &nbsp;
 
