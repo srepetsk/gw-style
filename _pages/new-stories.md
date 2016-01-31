@@ -27,24 +27,31 @@ At least one source should be included with every article, more if you have them
 <h3>Picture Credits</h3>
 Some of the pics we use come from social media sites.
 
-Add a line to the END of the story like this:
-(Image: Agency/Photographer/Where you got it) for example: (Image: AFP/Bob Example/Twitter) or (Image: AP Photo/Person Smith/Facebook)
+Add a line to the END of the story: (Image: Agency/Photographer/Where you got it)
 
-If there is no agency, leave it out, just give the name of the photographer and where you got it, for example: (Image: Bob Example/Twitter)
+<em>(Image: AFP/Bob Example/Twitter)</em>
 
-It the person sharing the photo uses an obvious fake name, use their handle instead, for example: (Image: @BestExampleGuy/Twitter)
+<em>(Image: AP Photo/Person Smith/Facebook)</em>
+
+If there is no agency, leave it out, just give the name of the photographer and where you got it: <em>(Image: Bob Example/Twitter)</em>
+
+It the person sharing the photo uses an obvious fake name, use their handle instead: <em>(Image: @BestExampleGuy/Twitter)</em>
 
 &nbsp;
 
 Note: Use <strong>image</strong> rather than photo or picture to account for all possibilities.
 
-If the image is a Grasswire-created composition of two or more images (for example, a photo overlaid on a map), credit them accordingly (photo, map).
+If the image is a Grasswire-created composition of two or more images (for example, a photo overlaid on a map), credit them accordingly:
+
+<em>(Photo: Bob Example/Instagram, Map data ©2015 Google)</em>
 <h5>Images licensed for re-use</h5>
 We also use photos licensed for re-use from other sites. Most of these are licensed by Creative Commons.
 
 A good search tool for these images is <a href="http://search.creativecommons.org/" target="_blank">search.creativecommons.org</a>
 
 These images should be credited in Creative Commons format, and this is where seems to get a bit complicated, but trust me it's not.
+
+&nbsp;
 
 We use three of the licenses:
 <ul>
@@ -54,7 +61,7 @@ We use three of the licenses:
 </ul>
 Creative Commons asks that you use the format: Title/Author/Source/License (TASL)
 
-For example: (Image: A Nice Pic/Jim Photographer/Wikimedia/CC BY-SA)
+<em>(Image: A Nice Pic/Jim Photographer/Wikimedia/CC BY-SA)</em>
 
 If any of these are not available or unknown it is fine to drop that element.
 
@@ -72,7 +79,7 @@ The license element says: "This file is licensed under the Creative Commons Attr
 
 There is no obvious name for this pic.
 
-So, the correct attribution is (Photo: Michele M. F./Wikimedia/CC BY-SA)
+So, the correct attribution is <em>(Photo: Michele M. F./Wikimedia/CC BY-SA)</em>
 
 &nbsp;
 
@@ -80,7 +87,7 @@ See the Creative Commons wiki for more on <a href="https://wiki.creativecommons
 
 &nbsp;
 <h5>Google Images</h5>
-Images that are licensed for use which come from Google Images can be difficult to find an author or title for. In this case use whatever information you have in the standard attribution format: (Image: Bob Example/A Website)
+Images that are licensed for use which come from Google Images can be difficult to find an author or title for. In this case use whatever information you have in the standard attribution format: <em>(Image: Bob Example/A Website)</em>
 <h5>Public Domain</h5>
 There is no legal requirement to cite public domain images but you should do it anyway.
 
@@ -120,6 +127,8 @@ Use verbs and active voice.
 
 <strong>Bad: </strong>Local man killed in elephant migration
 
+<strong>Bad: </strong>Elephant migration death
+
 &nbsp;
 
 <strong>Good: </strong>Indonesia calls off search for missing ferry passengers
@@ -157,22 +166,21 @@ Good reporting follows the inverted pyramid: The most important information goes
 
 &nbsp;
 
-The first paragraph (the lede) tells the reader who, what, where, when, why and how:
-
-Who is involved?
-
-What happened?
-
-Where did it happen?
-
-When did it happen?
-
-Why did it happen?
-
-How did it happen?
-
 &nbsp;
 
+[caption id="attachment_733" align="alignleft" width="300"]<img class="size-medium wp-image-733" src="https://style.srepetsk.net/wp-content/uploads/2016/01/pyramid1-300x256.png" alt="The Air Force Departmental Publishing Office (AFDPO)" width="300" height="256" /> The Air Force Departmental Publishing Office (AFDPO)[/caption]
+
+[caption id="attachment_734" align="alignright" width="300"]<img class="size-medium wp-image-734" src="https://style.srepetsk.net/wp-content/uploads/2016/01/pyramid2-300x254.jpg" alt=" comprehensive take on the inverted pyramid in journalism, which explains more precisely the kind of prioritizing a journalist should engage in (Christopher Schwartz/CC BY-SA 3.0)" width="300" height="254" /> Comprehensive take on the inverted pyramid in journalism, which explains more precisely the kind of prioritizing a journalist should engage in (Christopher Schwartz/Wikimedia/CC BY-SA 3.0)[/caption]
+<h3></h3>
+The first paragraph (the lede) tells the reader who, what, where, when, why and how:
+<ul>
+	<li>Who is involved?</li>
+	<li>What happened?</li>
+	<li>Where did it happen?</li>
+	<li>When did it happen?</li>
+	<li>Why did it happen?</li>
+	<li>How did it happen?</li>
+</ul>
 Be concise.
 
 This paragraph answers the "five Ws and an H" and gives the reader a general idea of what happened while encouraging them to continue reading. Be general in the lede and expound on the details in subsequent paragraphs:
@@ -185,28 +193,40 @@ This paragraph answers the "five Ws and an H" and gives the reader a general ide
 
 <em>In the first attack, a pair of bombers detonated suicide vests in a market in the town of Kuje, about 40 kilometers from the capital, killing 13 and injuring 20.</em>
 
+&nbsp;
+
 <em>Almost simultaneously, another bomb struck Nyanya, one of Abuja's most populated towns, killing two people and injuring 19 others, according to witness statements.</em>
+
+&nbsp;
 
 <em>According to the National Emergency Management Agency, two corpses and one critically injured person were taken to Asokoro General Hospital. The remaining 18 victims are being treated at the Nyanga General Hospital.</em>
 
 &nbsp;
 
-Every statement should be attributed to a source (witnesses, official statements, other reporting). Verify the information. Do not rely on other copy - even wires - to correctly spell a person's name, for example. Links to all sources should be included below the text (See Sources below).
+Use verbs and active voice.
+
+<strong>Good: </strong>The dog bit the bad man.
+
+<strong>Bad: </strong>The bad man was bit by the dog.
 
 &nbsp;
 
-A note on numbers: Do not get bogged down by the exact number of casualties, for example. In breaking news these numbers change quickly; when there is conflicting or unverified information, use the lower reported number.
+Avoid past exonerative tense: <em>Mistakes were made </em>is a famous example. For more, see McSweeney's <a href="http://www.mcsweeneys.net/articles/an-interactive-guide-to-ambiguous-grammar" target="_blank">Interactive Guide for Ambiguous Grammar</a>.
+
+<strong>Good: </strong>The U.S. military accidentally bombed a charity hospital in Afghanistan this morning, killing and injuring dozens of staff and patients, according to a Medicins Sans Frontieres statement.
+
+<strong>Bad: </strong>A bombing killed dozens of staff and patients today at a charity hospital in Afghanistan run by Medicins Sans Frontieres.
 
 &nbsp;
 
-[caption id="attachment_733" align="alignleft" width="300"]<img class="size-medium wp-image-733" src="https://style.srepetsk.net/wp-content/uploads/2016/01/pyramid1-300x256.png" alt="The Air Force Departmental Publishing Office (AFDPO)" width="300" height="256" /> The Air Force Departmental Publishing Office (AFDPO)[/caption]
+Every statement should be attributed to a source (witnesses, official statements, other reporting). Verify the information. Do not rely on other copy - even wires - to correctly spell a person's name, for example. Use special care when reporting statistics. Links to all sources should be included below the text (See Sources below).
 
-[caption id="attachment_734" align="alignright" width="300"]<img class="size-medium wp-image-734" src="https://style.srepetsk.net/wp-content/uploads/2016/01/pyramid2-300x254.jpg" alt=" comprehensive take on the inverted pyramid in journalism, which explains more precisely the kind of prioritizing a journalist should engage in (Christopher Schwartz/CC BY-SA 3.0)" width="300" height="254" /> Comprehensive take on the inverted pyramid in journalism, which explains more precisely the kind of prioritizing a journalist should engage in (Christopher Schwartz/Wikimedia/CC BY-SA 3.0)[/caption]
-<h3></h3>
+&nbsp;
+
+A note on casualty numbers: Do not get bogged down by the exact number of casualties while a story is developing. In breaking news these numbers change quickly; when there is conflicting or unverified information, use the lower reported number. Note conflicting information when possible: <em>At least 12 people were killed in the attack, according to the provincial governor. A spokesperson for the interior ministry said five people were killed and more than a dozen injured.</em>
 
 <hr />
 
-&nbsp;
 <h3>Sources</h3>
 Every statement or fact in the text should have a source (See Story above).
 
