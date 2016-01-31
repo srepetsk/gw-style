@@ -12,11 +12,11 @@ kalinsPDFMeta:
 ---
 <a href="https://style.srepetsk.net/wp-content/uploads/2016/01/new-story.png"><img class="alignright wp-image-720 size-medium" src="https://style.srepetsk.net/wp-content/uploads/2016/01/new-story-279x300.png" alt="new-story" width="279" height="300" /></a>Grasswire stories have five elements:
 <ol>
-	<li>picture</li>
-	<li>title (or tag)</li>
-	<li>headline</li>
-	<li>story</li>
-	<li>source(s)</li>
+	<li><a href="#picture">picture</a></li>
+	<li><a href="#title">title</a> (or tag)</li>
+	<li><a href="#headline">headline</a></li>
+	<li><a href="#story">story</a> ("The Facts")</li>
+	<li><a href="#sources">source(s)</a></li>
 </ol>
 &nbsp;
 
@@ -24,7 +24,10 @@ kalinsPDFMeta:
 
 <hr />
 
-<h3>Picture Credits</h3>
+[wpanchor id="picture"]
+<h3>Picture</h3>
+Choose something illustrative or a stock photo. Avoid disturbing images.
+<h5>Picture Credits</h5>
 Some of the pics we use come from social media sites.
 
 Add a line to the END of the story: (Image: Agency/Photographer/Where you got it)
@@ -93,7 +96,8 @@ Images that are licensed for use which come from Google Images can be difficult
 
 <hr />
 
-<h3>Title or Tag</h3>
+[wpanchor id="title"]
+<h3>Title</h3>
 The title (or tag) should be brief and specific with an eye to SEO. Note that you cannot reuse titles.
 
 Titles are limited to 30 characters.
@@ -108,7 +112,8 @@ Do not type the titles in all-caps; they will generate appropriately on the webs
 
 <hr />
 
-<h3>Headlines</h3>
+[wpanchor id="headline"]
+<h3>Headline</h3>
 Headlines should be concise, specific, useful and timely. The headline should tell the story - more people will read (and engage with) the headline than will ever click on the link.
 
 &nbsp;
@@ -159,7 +164,10 @@ For more on abbreviation, capitalization and punctuation see <a href="https://st
 
 <hr />
 
-<h3>Story</h3>
+[wpanchor id="story"]
+<h3>Story ("The Facts")</h3>
+Grasswire stories present facts, not analysis or opinion.
+
 Good reporting follows the inverted pyramid: The most important information goes at the beginning of the story.
 
 &nbsp;
@@ -241,7 +249,7 @@ Be concise. Put a fact in every sentence and stick to one idea.
 
 <em>The findings are a breakthrough for NASA's Mars Exploration Program, the long-term program established in 1993 to explore the possibility of life on Mars and the planet's climate and topography. Although scientists identified water frozen in Mars' polar ice caps with the Mars Opportunity rover expedition in 2004, today's announcement is the first time the agency has said there is </em><i>definitive evidence of water on the red planet.</i>
 <h5>Sourcing</h5>
-Every statement should be attributed to a source (witnesses, official statements, other reporting). Verify the information. Do not rely on other copy - even wires - to correctly spell a person's name, for example. Use special care when reporting statistics. Links to all sources should be included below the text (See <strong>Sources</strong> below).
+Every statement should be attributed to a source (witnesses, official statements, other reporting). Verify the information. Do not rely on other copy - even wires - to correctly spell a person's name, for example. Use special care when reporting statistics. Links to all sources should be included below the text (See <a href="#sources">Sources</a>).
 
 &nbsp;
 
@@ -249,8 +257,9 @@ A note on casualty numbers: Do not get bogged down by the exact number of casual
 
 <hr />
 
+[wpanchor id="sources"]
 <h3>Sources</h3>
-Every statement or fact in the text should have a source (See Story above).
+Every statement or fact in the text should have a source (See <a href="#story">Story</a>).
 
 Add a link to every source in the box below the text. Every story needs at least one link.
 
