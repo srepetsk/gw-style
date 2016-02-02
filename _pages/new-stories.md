@@ -26,7 +26,15 @@ kalinsPDFMeta:
 
 [wpanchor id="picture"]
 <h3>Picture</h3>
-Choose something illustrative or a stock photo. Avoid disturbing images.
+Choose something illustrative, a stock photo or a Twitter image. Avoid disturbing images. Make sure photos are verified.
+
+&nbsp;
+
+Upload photos to <a href="http://imgur.com" target="_blank">Imgur</a> and paste the <strong>direct link</strong> (not the image link) into the image box on Grasswire.
+
+&nbsp;
+
+<img class="wp-image-748 size-medium alignleft" src="https://style.srepetsk.net/wp-content/uploads/2016/01/imguryes-300x178.jpg" alt="" width="300" height="178" />
 <h5>Picture Credits</h5>
 Some of the pics we use come from social media sites.
 
