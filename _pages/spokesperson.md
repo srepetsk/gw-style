@@ -8,8 +8,12 @@ layout: page
 permalink: >
   https://style.srepetsk.net/s/spokesperson/
 published: true
+kalinsPDFMeta:
+  - '{"showLink":"default"}'
 ---
-The Associated Press Stylebook recommends <em>spokesman</em> and <em>spokeswoman</em>. It's 2016: Use <em>spokesperson</em>.
+The Associated Press Stylebook recently added <em>spokesperson </em>to the book, to be used instead of <em>spokesman</em> and <em>spokeswoman </em>when preferred by the individual or organization.
+
+It's 2016: Use <em>spokesperson</em>.
 
 Better: Use a neutral word such as <em>representative</em> or the person's title or role that provides more information: <em>Sgt. Jeannie Hadley, public information officer for the department</em>
 
